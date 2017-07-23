@@ -1,14 +1,15 @@
 # Connect to the erometer
 
 There are two ways too connect to the website to the ergometer
-* install the Ergometer Data server
-* Use web bluetooth
+* Install the Ergometer Data server
+* Web bluetooth
 
 ## Ergometer Data server
 Go to the download menu and download and install the Ergometer Data server  
 Compatible with:
 * Windows
 * Mac OS X 10.11 and below (so not the latest 10.12)
+The server can be used to connect multipe ergometers to one or more browsers.
 
 ## Use web bluetooth
 Selectin the ergometer connection menu the connection type "Bluetooth (PM5)".
