@@ -23,6 +23,9 @@ Compatible with:
   - linux
 
 In the neaar future windows will be supported in chrome. I expect that other browsers will also add support. 
-
+Limitations:
+  - Use https
+  - You can not post a high score (due to the problem that I can not protect the java script code)
+  
 To check support:
  https://github.com/WebBluetoothCG/web-bluetooth/blob/master/implementation-status.md
