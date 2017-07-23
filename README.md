@@ -1,6 +1,5 @@
 
-website: 
- [https://ergometer-space.org/]
+[website](https://ergometer-space.org/)
 
 # Browser compatibility
 
@@ -50,4 +49,4 @@ In total there are 4 servers.
   I can only fix this problem when concept2 releases a new version. 
   As alternative you can use chrome as browser and connect using blue tooth to a PM5.
 Writing plugins:
-[Plugins](Plugins.md)
+[Plugins](PLUGINS.md)
