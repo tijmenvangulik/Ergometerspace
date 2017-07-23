@@ -18,7 +18,7 @@ Compatible with:
 * Chrome with 
   - mac osx
   - android
-  - chrome book
+  - chrome OS
   - linux
 
 In the neaar future windows will be supported in chrome. I expect that other browsers will also add support. 
