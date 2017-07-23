@@ -16,10 +16,10 @@ Close the dialog and click on the pair ergometer in the main menu bar.
 
 Compatible with:
 * Chrome with 
-- mac osx
-- android
-- chrome book
-- linux
+  - mac osx
+  - android
+  - chrome book
+  - linux
 
 In the neaar future windows will be supported in chrome. I expect that other browsers will also add support. 
 
