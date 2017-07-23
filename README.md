@@ -5,13 +5,13 @@ website:
 # Browser compatibility
 
 * Chrome
-** The only browser which I have really tested.
-** On unix and mac it should be possible to connect to a PM5 using bluetooth
+  - The only browser which I have really tested.
+  - On unix and mac it should be possible to connect to a PM5 using bluetooth
 * Firefox
 * Internet explorer
-** Web sockets to other domains are by default not allowed. You need to add the website to the local intranet websites to make it work.
+  - Web sockets to other domains are by default not allowed. You need to add the website to the local intranet websites to make it work.
 * Safari
-** Errors missing
+  - Errors missing
 
 Apart from the usefull functionality is the website also a test bed for new web technologies.
 
