@@ -1,18 +1,19 @@
 
 website: 
- [http://www.vangulik.org/Ergometer/]
+ [https://ergometer-space.org/]
 
 # Browser compatibility
 
 * Chrome
 ** The only browser which I have really tested.
+** On unix and mac it should be possible to connect to a PM5 using bluetooth
 * Firefox
 * Internet explorer
 ** Web sockets to other domains are by default not allowed. You need to add the website to the local intranet websites to make it work.
 * Safari
 ** Errors missing
 
-Apart from the use full functionality is the website also a test bed for new web technologies.
+Apart from the usefull functionality is the website also a test bed for new web technologies.
 
 _Nerd mode on_
 
@@ -45,6 +46,8 @@ In total there are 4 servers.
 * The data server is a web socket server which can server multiple ergometers. Multiple clients can also connect to one ergometer 
 * ergometer scores are protected by a hash which is checked on the server. This way you can not tamper with the scores.
 * You can write javascript/typescript plugins (). The editor knows the structure of the application and the libraries can can provide syntax checks and code completion.
-
+* This version does not work any more on OS X El Capitan
+  I can only fix this problem when concept2 releases a new version. 
+  As alternative you can use chrome as browser and connect using blue tooth to a PM5.
 Writing plugins:
 [Plugins](Plugins.md)
