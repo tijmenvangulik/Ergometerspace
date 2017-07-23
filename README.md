@@ -14,6 +14,8 @@
 
 Apart from the usefull functionality is the website also a test bed for new web technologies.
 
+[Connecting to the ergometer](connection.md)
+
 _Nerd mode on_
 
 # Technical background
@@ -48,5 +50,6 @@ In total there are 4 servers.
 * This version does not work any more on OS X El Capitan
   I can only fix this problem when concept2 releases a new version. 
   As alternative you can use chrome as browser and connect using blue tooth to a PM5.
-Writing plugins:
+
+## Writing plugins:
 [Plugins](PLUGINS.md)
