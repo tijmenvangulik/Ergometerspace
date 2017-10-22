@@ -54,7 +54,8 @@ then press download
 
 now you have a file which looks like this:
 
-`<?xml version='1.0' encoding='UTF-8'?>
+```xml
+<?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
 		<name>My route</name>
@@ -95,7 +96,8 @@ now you have a file which looks like this:
 			</Pair>
 		</StyleMap>
 	</Document>
-</kml>`****
+</kml>
+```
 
 go to the ergometer space and click on the tool buton on the map plugin
 
