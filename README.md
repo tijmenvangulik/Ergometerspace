@@ -55,4 +55,4 @@ In total there are 4 servers.
 
 [Writing plugins](PLUGINS.md)
 
-[Creating an map with a route](Maps\README.md)
+[Creating an map with a route](Maps/README.md)

@@ -1,4 +1,4 @@
-##Create an map with a route for ergometer space
+## Create an map with a route for ergometer space
 Create a route with google maps and import it into the ergometer space maps widget
 
 First start google maps and make sure that you are logged in into google
