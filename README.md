@@ -33,7 +33,9 @@ In total there are 4 servers.
   * data server which serves the data (html,css,javascript)
   * manager which functions as a dictionary where the rooms are
   * 2 room servers which manage each 3 rooms. This can scale to many servers which are spread over the internet. One room can only run on one server.
+
 ## Web app
+
 * Html 5 features
   * websockets to your local driver
   * websockets to the server
@@ -44,7 +46,9 @@ In total there are 4 servers.
   * html 5 canvas drawing
 * There is a 3d model for the animations. This will make it possible to later use real web 3d
 * NTP time synchronization
+
 ## Data server
+
 * Written in C++ and build on top of boost. 
 * All code should be portable to other systems including embedded systems
 * The data server is a web socket server which can server multiple ergometers. Multiple clients can also connect to one ergometer 
