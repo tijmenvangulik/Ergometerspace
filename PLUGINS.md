@@ -126,8 +126,8 @@ var app : ErgometerApp;
 
 Some handy utility functions
 
-{{
-module utilities {
+```javascript
+  module utilities {
     //format to a time value
     function formatTimeValue(value: number, digits: number): string;
     //format a relative date to a time
@@ -139,7 +139,7 @@ module utilities {
     //draw an ellipse on a canvas
     function ellipse(context: CanvasRenderingContext2D, cx, cy, rx, ry: number): void;
 }
-}}
+```
 
 Widgets subscribe them selves to ergometer data events to receive information. This is done on the visible changed method. This way a widget only receives data when it is visible. Ergometer Events are located in the pm3.monitor.pubsubs object. 
 
