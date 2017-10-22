@@ -1,5 +1,6 @@
+# Introduction
 
-Ergometer rowing app for concept2
+Ergometer rowing web app for concept2
 
 Uses bluetooth or a data-server to connect your phone to the concept2 ergometer with a PM5. (A performance monitor with a lower number does not support bluetooth, it is possible to upgrade the performance monitor)
 
@@ -18,7 +19,7 @@ Features
 - Get warnings when user defined stroke value limits are exceeded
 - Plugins 
 
-# [Website](https://ergometer-space.org/)
+[Website](https://ergometer-space.org/)
 
 # Browser compatibility
 
