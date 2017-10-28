@@ -109,7 +109,14 @@ Click on load file
 Now the route looks like this:
 
 ![](11.png)
+
+#sharing your creation
 ￼
+The shared maps are stored on github. You can fork te repository an push your own plugin
+
+  https://github.com/tijmenvangulik/Ergometerspace/tree/master/data/maps
+
+You can also send it to me using mail: tijmen@vangulik.org
 
 
 

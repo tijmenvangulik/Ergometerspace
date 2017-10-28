@@ -7,6 +7,14 @@ update source. It is best to write and debug code in chrome.
 
 A view examples plugins with one or more widgets can be installed from the "add from web" option.
 
+## Publish your plugin
+
+The plugins are stored on github. You can fork te repository an push your own plugin
+
+  https://github.com/tijmenvangulik/Ergometerspace/tree/master/data/plugins
+
+You can also send it to me using mail: tijmen@vangulik.org
+
 ## Ace editor shortcuts
 
 [https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts]

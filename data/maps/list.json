@@ -1,12 +1,12 @@
 [
 { "name": "The boat race",
   "distance":5581,
-  "url":"maps/TheBoatRace.kml",
+  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/maps/TheBoatRace.kml",
   "author":"Tijmen van Gulik"
 },
 { "name":"Head of the river",
   "distance":8033,
-  "url":"maps/HeadOfTheRiver.kml",
+  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/maps/HeadOfTheRiver.kml",
   "author":"Tijmen van Gulik"
 }
 
