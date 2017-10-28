@@ -112,10 +112,12 @@ Now the route looks like this:
 
 #sharing your creation
 ￼
-The shared maps are stored on github. You can fork te repository an push your own plugin
+The shared maps are stored on github. You can fork te repository an push your own map
 
   https://github.com/tijmenvangulik/Ergometerspace/tree/master/data/maps
-
+  
+place the kml file in the map directory and add a reference to the list.json
+  
 You can also send it to me using mail: tijmen@vangulik.org
 
 
