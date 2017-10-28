@@ -11,12 +11,13 @@ Compatible with:
 * Mac OS X 10.11 and below (so not the latest 10.12)
 The server can be used to connect multipe ergometers to one or more browsers.
 
-## Use web bluetooth
+## Use (web) bluetooth
 Selectin the ergometer connection menu the connection type "Bluetooth (PM5)".
 Close the dialog and click on the pair ergometer in the main menu bar.
 
 Compatible with:
-* Chrome with 
+* android (native support)
+* Desktop browser chrome with 
   - mac osx
   - android
   - chrome OS
