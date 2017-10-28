@@ -1,0 +1,26 @@
+[
+{ "name": "Example value widgets",
+  "url":"plugins/TijmenVanGulik/Examples/ValueWidgets.json"
+},
+{ "name":"Example high chart widgets",
+  "url":"plugins/TijmenVanGulik/Examples/HighChartWidgets.json"
+},
+{ "name":"Example race widgets",
+  "url":"plugins/TijmenVanGulik/Examples/RaceWidgets.json"
+},
+{ "name":"Example history widgets",
+  "url":"plugins/TijmenVanGulik/Examples/HistoryWidget.json"
+} ,
+{ "name":"Example google earth widget",
+  "url":"plugins/TijmenVanGulik/Examples/GoogleEarthWidget.json"
+},
+{ "name":"Language translation example",
+  "url":"plugins/TijmenVanGulik/Examples/languageExample.json"
+},
+{ "name":"Power curve advisor example",
+  "url":"plugins/TijmenVanGulik/Examples/advisorExample.json"
+},
+{ "name":"Map widget example using open layer",
+  "url":"plugins/TijmenVanGulik/Examples/MapWidget.JSON"
+}
+]
