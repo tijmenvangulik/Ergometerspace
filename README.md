@@ -21,15 +21,29 @@ Features
 
 [Website](https://ergometer-space.org/)
 
-# Browser compatibility
+# Platform compatibility
 
-* Chrome
-  - The only browser which I have really tested.
-  - On unix and mac it should be possible to connect to a PM5 using web bluetooth
-* Firefox
-* Internet explorer
-  - Web sockets to other domains are by default not allowed. You need to add the website to the local intranet websites to make it work.
-* Safari
+## connect using blue tooth to a PM5
+
+| App                   |Mac OS X | Windows      | Android | iOS         |
+|-----------------------|---------|--------------|---------|-------------|
+|Ergometer space web    |Yes (*4) | Comming (*4) | >=6 (*1)|             | 
+|Ergometer space native |Yes      | Comming (*2) | >=5.1   | Comming(*3) |
+
+
+- (*1) not tested, should work
+- (*2) Code is compiling but need a better bluetooth sollution
+- (*3) Code is ready, Placing it in the store is too expensive 
+- (*4) Chrome browser supports webblue tooth. For windows not yet but this will come in the future.
+
+## connect using the data server to an different PM
+
+The data server can connect to the performance monitor using blue tooth 
+In all versions of ergometer space you can connect to an ergometer data server running in on the network.
+The data server runs only on:
+
+- Windows (all versions)
+- Mac OS X less or equal to 10.10 (concept 2 api does not work any more on new mac os X) 
 
 Apart from the usefull functionality is the website also a test bed for new web technologies.
 
