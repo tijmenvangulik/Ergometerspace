@@ -34,7 +34,7 @@ Features
 - (*1) not tested, should work
 - (*2) Code is compiling but need a better bluetooth sollution
 - (*3) Code is ready, Placing it in the store is too expensive 
-- (*4) Chrome browser supports webblue tooth. For windows not yet but this will come in the future.
+- (*4) Chrome browser supports web bluetooth. For windows not yet but this will come in the future.
 
 ## connect using the data server to an different PM
 
