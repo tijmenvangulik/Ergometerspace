@@ -9,10 +9,11 @@ Go to the download menu and download and install the Ergometer Data server
 Compatible with:
 * Windows
 * Mac OS X 10.11 and below (so not the latest 10.12)
-The server can be used to connect multipe ergometers to one or more browsers.
+
+The server can be used to connect multiple ergometers to one or more browsers.
 
 ## Use (web) bluetooth
-Selectin the ergometer connection menu the connection type "Bluetooth (PM5)".
+Selecting the ergometer connection menu the connection type "Bluetooth (PM5)".
 Close the dialog and click on the pair ergometer in the main menu bar.
 
 Compatible with:
@@ -23,8 +24,9 @@ Compatible with:
   - chrome OS
   - linux
 
-In the neaar future windows will be supported in chrome. I expect that other browsers will also add support. 
+In the near future windows will be supported in chrome. I expect that other browsers will also add support. 
 Limitations:
+
   - Use https
   - You can not post a high score (due to the problem that I can not protect the java script code)
   
