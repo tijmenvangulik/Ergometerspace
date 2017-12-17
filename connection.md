@@ -1,4 +1,4 @@
-# Connect to the erometer
+# Connect to the ergometer
 
 ![setup](ErgometerSetup.png)
 
