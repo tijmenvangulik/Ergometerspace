@@ -19,10 +19,10 @@ Close the dialog and click on the pair ergometer in the main menu bar.
 Compatible with:
 * android (native support)
 * Desktop browser chrome with 
-  - mac osx
-  - android
-  - chrome OS
-  - linux
+  - MacOS X
+  - Android
+  - Chrome OS
+  - Linux
 
 In the near future windows will be supported in chrome. I expect that other browsers will also add support. 
 Limitations:
@@ -32,3 +32,5 @@ Limitations:
   
 To check support:
  https://github.com/WebBluetoothCG/web-bluetooth/blob/master/implementation-status.md
+
+![setup](ErgometerSetup.png)
