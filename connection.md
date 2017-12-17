@@ -1,5 +1,7 @@
 # Connect to the erometer
 
+![setup](ErgometerSetup.png)
+
 There are two ways too connect to the website to the ergometer
 * Install the Ergometer Data server
 * Web bluetooth
@@ -33,4 +35,3 @@ Limitations:
 To check support:
  https://github.com/WebBluetoothCG/web-bluetooth/blob/master/implementation-status.md
 
-![setup](ErgometerSetup.png)
