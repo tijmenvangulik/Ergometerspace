@@ -15,13 +15,14 @@ The plugins are stored on github. You can fork te repository an push your own pl
 
 You can also send it to me using mail: tijmen@vangulik.org
 
-## Ace editor shortcuts
+## Monaco editor
 
-[https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts]
-Extra shortcuts
-code completion ctrl space
-sync edit F2 
-save ctrl S or mac command S
+To see what is possible open a popup menu. For more info on the editor:
+
+[https://microsoft.github.io/monaco-editor]
+
+To save ctrl S or mac command S. The widgets loaded by the plugin will be refreshed. When you get an
+typescript error during the save the code will not be saved.
 
 All code is stored in your local storage. Clearing te browser history can remove all your code. It is best to export your code once in a while.
 
@@ -30,24 +31,33 @@ All code is stored in your local storage. Clearing te browser history can remove
 | name | version | note | url |
 |------|---------|------|-----|
 | jquery | 1.8.3 | | |
-| jquery ui | 1.9.2 | | |
+| jquery ui | 1.9.2 | | | Only for animation
 | highcharts | | gauge and charts| |
 | socket.io|  | for server communcation | |
-| bootstrap | old | jquery ui compatible version of bootstrap| |
+| bootstrap | 3.3.7 | | |
 | FileSaver | | | |
 | require | | dynamic loading extra scripts| |
-| Wijmo menu| 1.5.0 |  for the top menu| |
 | Font awesome |  | Icons | |
 | jquery.ui.theme.font-awesome | | Better icons for jquery ui based on font awesome | |
-| typescript | 0.8.2 | | [http://www.typescriptlang.org] | 
-| Ace editor | | | |
-| Ace typescript | | | [https://github.com/tijmenvangulik/typescript-playground-on-ace]
+| typescript | 1.4.2 | | [http://www.typescriptlang.org] (The editor is based on this version, for my own code I use 1.6.2 but I keep it backwards compatible with 1.4.2) |
+| Validator |
+| jasny-bootstrap  |
+| openlayer |
+| bootstrap-slider |
+| bootstrap-select |
+| bootstrap-dialog |
+| Monaco editor |
+| gridstack |
 
 # Java script / type script
 
 Type script reference [http://www.typescriptlang.org]
 
 Included typescript (javascript) definitions:
+
+All API definitions are stored here:
+
+[http://www.vangulik.org/Ergometer/typescripts/]
 
 | Name | link |
 |------|------|

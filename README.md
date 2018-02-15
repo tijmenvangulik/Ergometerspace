@@ -56,3 +56,4 @@ Apart from the usefull functionality is the website also a test bed for new web 
 [Connecting to the ergometer](connection.md)
 
 [Technical background](TECHNICAL.md)
+
