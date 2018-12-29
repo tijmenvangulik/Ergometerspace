@@ -25,6 +25,7 @@ Compatible with:
   - Android
   - Chrome OS
   - Linux
+  - windows 10
 
 In the near future windows will be supported in chrome. I expect that other browsers will also add support. 
 Limitations:
