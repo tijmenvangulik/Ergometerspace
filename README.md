@@ -18,6 +18,7 @@ Features
 - Row stroke advisor which bases is based on the user defined base curve.
 - Get warnings when user defined stroke value limits are exceeded
 - Plugins 
+- 3d and VR using a headset
 
 [Website](https://ergometer-space.org/)
 
@@ -35,14 +36,7 @@ Features
 - (*2) Code is compiling but need a better bluetooth solution
 - (*4) Chrome browser supports web bluetooth. For windows not yet but this will come in the future.
 
-## connect using usb to a PM3-5
-
-| App                   |Mac OS X | Windows      | Android | iOS         |
-|-----------------------|---------|--------------|---------|-------------|
-|Ergometer space web    |Coming   | Coming       | No      |             | 
-|Ergometer space native |Yes      | Yes          | No      | no          |
-
-## connect using the data server to an older PM  (depricated)
+## connect using the data server to an older PM
 
 The data server can connect to the performance monitor using blue tooth 
 In all versions of ergometer space you can connect to an ergometer data server running in on the network.
