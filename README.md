@@ -27,16 +27,22 @@ Features
 
 | App                   |Mac OS X | Windows      | Android | iOS         |
 |-----------------------|---------|--------------|---------|-------------|
-|Ergometer space web    |Yes (*4) | Coming  (*4) | >=6 (*1)|             | 
-|Ergometer space native |Yes      | Coming  (*2) | >=5.1   | Coming(*3)  |
+|Ergometer space web    |Yes (*4) | Yes          | >=6 (*1)|             | 
+|Ergometer space native |Yes      | Yes          | >=5.1   | No          |
 
 
 - (*1) Not yet tested, should work
 - (*2) Code is compiling but need a better bluetooth solution
-- (*3) Code is ready, Placing it in the store is too expensive 
 - (*4) Chrome browser supports web bluetooth. For windows not yet but this will come in the future.
 
-## connect using the data server to an older PM
+## connect using usb to a PM3-5
+
+| App                   |Mac OS X | Windows      | Android | iOS         |
+|-----------------------|---------|--------------|---------|-------------|
+|Ergometer space web    |Coming   | Coming       | No      |             | 
+|Ergometer space native |Yes      | Yes          | No      | no          |
+
+## connect using the data server to an older PM  (depricated)
 
 The data server can connect to the performance monitor using blue tooth 
 In all versions of ergometer space you can connect to an ergometer data server running in on the network.
