@@ -43,8 +43,3 @@ Compatible with:
 * Mac OS X 10.11 and below (so not the latest 10.12)
 
 The server can be used to connect multiple ergometers to one or more browsers.
-
-## Setup
-
-![setup](ErgometerSetup.png)
-

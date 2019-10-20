@@ -17,8 +17,8 @@ Features
 - View history of your race
 - Row stroke advisor which bases is based on the user defined base curve.
 - Get warnings when user defined stroke value limits are exceeded
-- Plugins 
-- 3d and VR using a headset
+- Plugins (including an web ide to write your own plugins)
+- 3D and VR using a headset
 
 [Website](https://ergometer-space.org/)
 
