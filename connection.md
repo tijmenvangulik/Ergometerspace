@@ -10,10 +10,10 @@ For the best connection experience you can download a native app in from the dow
 ## Use Usb to connect to a PM3-5
 
 * Download and install the app from the the download menu. It is compatible with
- - Mac OS X
- - Windows
+  - Mac OS X
+  - Windows
 * Download the mobile app
- - Android 
+  - Android 
 * Chrome canary with experimental features turned on (chrome://flags/)
 
 ## Use web bluetooth (PM5 only)
@@ -29,8 +29,8 @@ Compatible with:
   - Chrome/ Chrome OS
   - Linux
 * Desktop App (download from the download menu)
- - Mac OS X 
- - Windows
+  - Mac OS X 
+  - Windows
   
 ## Ergometer Data server (deprecated)
 
