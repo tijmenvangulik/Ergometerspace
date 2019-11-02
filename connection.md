@@ -15,6 +15,7 @@ For the best connection experience you can download a native app in from the dow
   - Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)
 * Download the mobile android app from the play store
   - [Android play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace&gl=NL)
+    For android you need an OTG USB cable to connect your phone to the ergometer.
 
 ## Use bluetooth (PM5 only)
 
