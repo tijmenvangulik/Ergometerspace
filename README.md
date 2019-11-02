@@ -8,6 +8,7 @@ Features
 - Create your own dashboard with values and gauges and other widgets
 -  Row together over the internet
     * See each other and projected positions
+    * Share your power curve to other rowers
     * Publish a high score
     * Chat 
     * Traffic light
@@ -18,7 +19,8 @@ Features
 - Row stroke advisor which bases is based on the user defined base curve.
 - Get warnings when user defined stroke value limits are exceeded
 - Plugins (including an web ide to write your own plugins)
-- 3D and VR using a headset
+- Paceboat where you can row agains your selves using an previous rowing session.
+- 3D and VR using a headset. (configure a pace boat to row agains your selves)
 - Record and replay widget
  
 [Website](https://ergometer-space.org/)
