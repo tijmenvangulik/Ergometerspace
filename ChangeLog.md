@@ -1,7 +1,7 @@
-* 2.4.5
+* 2.4.6
   - Improved Version management (and notify about updates)
 
-* 2.4.4
+* 2.4.5
   - Increased USB accuracy. This fixes animation problems.
   - Added record and replay widget
   - Target Android SDK 28
