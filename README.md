@@ -27,6 +27,8 @@ Features
 
 ## Topics
 
+[Change log](ChangeLog.md)
+
 [Writing plugins](PLUGINS.md)
 
 [Creating an map with a route](Maps/README.md)
