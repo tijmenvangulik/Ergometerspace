@@ -1,3 +1,8 @@
+* 2.4.7
+  - More efficient USB communication
+  - Improved warning messages
+  - Fix race widget animation problem when pauzing in between
+
 * 2.4.6
   - Improved Version management (and notify about updates)
 
