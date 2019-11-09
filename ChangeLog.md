@@ -1,3 +1,6 @@
+* 2.4.9
+  - fix pace boat starting too slowly in animation
+
 * 2.4.8
   - More race track widget animation fixes
   
