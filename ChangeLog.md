@@ -1,3 +1,6 @@
+* 2.4.8
+  - More race track widget animation fixes
+  
 * 2.4.7
   - More efficient USB communication
   - Improved warning messages
