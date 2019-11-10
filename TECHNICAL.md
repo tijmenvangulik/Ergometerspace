@@ -1,5 +1,12 @@
 # Technical background
 
+## Internal ergometer driver
+
+The source code of the ergometer driver which is used by ergometer-space is located in another repository:
+  https://github.com/tijmenvangulik/ErgometerJS
+
+Some plugin examples are open source, The rest of the software is not open source.
+
 ## Server
 
 * Server written in Node.js which has very hight performance and had good deployment in the cloud
