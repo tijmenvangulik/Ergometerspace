@@ -1,3 +1,11 @@
+* 2.5.0
+  - Power curve history widget
+  - New record and replay features
+    * Pause option
+    * export/import a recording. (your can give your coach the file so he can analyze it using ergometer-space)
+    * Record a (short) video together with all your data. The data and the video are synchronized during play back.
+    * after import the history widgets shows all data in the recording
+  
 * 2.4.9
   - fix pace boat starting too slowly in animation
 

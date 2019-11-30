@@ -29,6 +29,8 @@ Features
 
 [Change log](ChangeLog.md)
 
+[Privacy](Privacy.md)
+
 [Writing plugins](PLUGINS.md)
 
 [Creating an map with a route](Maps/README.md)
@@ -37,3 +39,4 @@ Features
 
 [Technical background](TECHNICAL.md)
 
+[Privacy](Privacy.md)
