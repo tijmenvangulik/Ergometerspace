@@ -1,4 +1,4 @@
-* 2.5.0
+* 2.5.1
   - Power curve history widget
   - New record and replay features
     * Pause option
