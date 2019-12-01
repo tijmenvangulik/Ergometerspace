@@ -21,7 +21,7 @@ Features
 - Plugins (including an web ide to write your own plugins)
 - Paceboat where you can row agains your selves using an previous rowing session.
 - 3D and VR using a headset. (configure a pace boat to row agains your selves)
-- Record and replay widget
+- Record an replay of all the ergometer data plus an optional video. The import/export function allows you to give this data to a coach for further analysis.
  
 [Website](https://ergometer-space.org/)
 
