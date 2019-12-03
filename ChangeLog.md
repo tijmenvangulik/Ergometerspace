@@ -1,3 +1,7 @@
+* 2.5.2
+  - Fix error when starting the demo replay.
+  - Fix VR widget head rotation and camera movements problems
+
 * 2.5.1
   - Power curve history widget
   - New record and replay features
