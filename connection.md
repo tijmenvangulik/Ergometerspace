@@ -28,6 +28,7 @@ Compatible with:
   - Android
   - Chrome/ Chrome OS
   - Linux
+  
   (if you do not like chrome any other chromium based browser will do. Like opera,brave,vialdi, future version of edge)
 * Ergometer-space app for android (native support, download the app from the play store)
   - [Android play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace&gl=NL)
