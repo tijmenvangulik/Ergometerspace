@@ -1,3 +1,7 @@
+* 2.5.3
+  - Fix closing widget problem on cordova/mobile.
+  - When entering vr mode, reset the rotation
+
 * 2.5.2
   - Fix error when starting the demo replay.
   - Fix VR widget head rotation and camera movements problems
