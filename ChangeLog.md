@@ -1,8 +1,7 @@
-* 3.6.0
+* 2.6.0
   - Fix VR animation problems
   - Fix android BLE security problem
   - New initial version of shark VR game
-
 
 * 2.5.3
   - Fix closing widget problem on cordova/mobile.
