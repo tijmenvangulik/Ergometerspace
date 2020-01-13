@@ -1,3 +1,7 @@
+* 2.6.1
+  - fix mobile scroll problem vr and map widget
+  - fix cordova/android internet connection problem
+  
 * 2.6.0
   - Fix VR animation problems
   - Fix android BLE security problem
