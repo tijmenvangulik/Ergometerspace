@@ -1,3 +1,10 @@
+* 2.6.3
+  - Export csv, set separators in options
+  - Export unique file name
+  - "show in widgets" bugs in history log
+  - Android : Open csv exports in excel or other spreadsheet
+* 2.6.2
+  - android bug fixes
 * 2.6.1
   - fix mobile scroll problem vr and map widget
   - fix cordova/android internet connection problem
