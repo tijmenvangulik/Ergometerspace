@@ -1,3 +1,6 @@
+* 2.6.4
+  - android: less often show the new version available
+  - Added power curves to workout log. , curves will be visible in exports and when you choose "Show in Widgets" in the powercurve history widget
 * 2.6.3
   - Export csv, set separators in options
   - Export unique file name
