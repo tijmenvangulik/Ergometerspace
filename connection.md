@@ -9,7 +9,8 @@ For the best connection experience you can download a native app in from the dow
 
 ## Use Usb to connect to a PM3-5
 
-* Chrome canary with experimental features turned on (chrome://flags/) [download](https://www.google.com/chrome/canary/)
+* Chrome with experimental features turned on 
+  ( chrome://flags/#enable-experimental-web-platform-features )
 * Download and install the app from the the download menu. It is compatible with 
   - Mac OS X [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg)
   - Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)
