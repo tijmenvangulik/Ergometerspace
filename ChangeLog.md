@@ -1,3 +1,7 @@
+* 2.7.0
+  - Public highscore for shark game
+  - Fix boat model problem in android vr mode
+  - Android blue tooth fixes (In the next version I do an large update the android blue tooth drivers, since it does not work stable any more on my android device.)
 * 2.6.4
   - android: less often show the new version available
   - Added power curves to workout log. , curves will be visible in exports and when you choose "Show in Widgets" in the powercurve history widget
