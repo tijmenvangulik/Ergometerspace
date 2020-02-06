@@ -1,3 +1,6 @@
+* 2.7.2
+  - New bluetooth drivers which mainly fixes bluetooth issues
+  - Web hid (web usb) fixes to make usb work in the latest chrome canary browser.
 * 2.7.0
   - Public highscore for shark game
   - Fix boat model problem in android vr mode
