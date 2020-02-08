@@ -1,3 +1,5 @@
+* 2.7.3
+  - Fix for downloading dataserver
 * 2.7.2
   - New bluetooth drivers which mainly fixes bluetooth issues
   - Web hid (web usb) fixes to make usb work in the latest chrome canary browser.
