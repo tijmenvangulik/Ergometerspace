@@ -1,3 +1,5 @@
+* 2.7.4
+  - Hide test button
 * 2.7.3
   - Fix for downloading dataserver
 * 2.7.2
