@@ -61,7 +61,8 @@ First check the following things:
 * Blue tooth. Check if you are using the latest firmware version of the concept 2 Performance monitor. There are many [firmware fixes](https://www.concept2.com/service/monitors/pm5/firmware/timeline#rownew)  
 * Android+Usb. Check if you connect using and special otg cable see this [link](https://www.concept2.nl/nl/service/software/ergdata/android-benodigdheden)
 * Blue tooth: Ensure that you have switched blue tooth on the device before clicking on the connect button in ergometer-space
-* Browser: First try if it works in chrome.
+* Browser: First try if it works in chrome. If you try to connect using Usb in chrome, please first read the guide how to do this because this in an feature which currently in beta test phase in chrome.
+* Check if you selected the correct connection type in the options.
   
 Still having problems. Please mail me [tijmen@vangulik.org](mailto:tijmenvangulik.org) or [open an issue](https://github.com/tijmenvangulik/Ergometerspace/issues)
 
