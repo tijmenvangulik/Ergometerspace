@@ -1,3 +1,7 @@
+* 2.7.5 
+  - Added docs and hints on may places in the gui.
+  - External documents marked with icon.
+  - Fix problem that you had to click on the download menu item twice.
 * 2.7.4
   - Hide test button
 * 2.7.3
