@@ -1,4 +1,4 @@
-* 2.7.5 
+* 2.7.6 
   - Added docs and hints on may places in the gui.
   - External documents marked with icon.
   - Fix problem that you had to click on the download menu item twice.
