@@ -7,6 +7,8 @@ There are multiple ways too connect ergometer-space to a concept 2 ergometer:
 
 For the best connection experience you can download a native app in from the download menu. The native apps also have screen blanker prevention.
 
+If you need more help, check the last chapter on this page.
+
 ## Use Usb to connect to a PM3-5
 
 * Chrome with experimental features turned on 
