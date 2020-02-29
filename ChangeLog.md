@@ -1,3 +1,5 @@
+* 2.7.7 
+  - Improved docs 
 * 2.7.6 
   - Added docs and hints on may places in the gui.
   - External documents marked with icon.
