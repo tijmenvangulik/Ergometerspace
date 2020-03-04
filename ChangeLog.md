@@ -1,3 +1,5 @@
+* 2.7.8
+  - On some android devices the app could not connect to the PM5 using blue tooth. Made a fix for this.
 * 2.7.7 
   - Improved docs 
 * 2.7.6 
