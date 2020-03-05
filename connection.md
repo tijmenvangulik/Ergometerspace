@@ -36,6 +36,9 @@ Compatible with:
 * Mobile: Ergometer-space app for android (native support, download the app from the play store)
   - [Android play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace&gl=NL)
   - Chrome browser running on an android device. If it is not already installed you can download it from the [play store](https://play.google.com/store/apps/details?id=com.android.chrome&referrer=utm_source%3Dhelp-center%26utm_medium%3Dhc-answer%26utm_campaign%3Dhelp-center-mg) Start the [website](https://ergometer-space.org) and use the chrome function "add to home screen" to add the ergometer app to your home screen.
+  - IOS. I do not support IOS. There is one work arround to run the website on an iPhone. Install the [WebBLE browser app](https://apps.apple.com/us/app/webble/id1193531073) on your iPhone. The start the [website](https://ergometer-space.org) in the browser. There are a view limitations:
+    - Vr widget does not work (best to close this widget)
+    - The toolbar does look a bit strange.  
 * Desktop/laptop: Ergometer-space Desktop App (download from the download menu)
   - Mac OS X [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg)
   - Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)
@@ -64,7 +67,7 @@ First check the following things:
 * Blue tooth. Check if you are using the latest firmware version of the concept 2 Performance monitor. There are many [firmware fixes](https://www.concept2.com/service/monitors/pm5/firmware/timeline#rownew)  
 * Android+Usb. Check if you connect using and special otg cable see this [link](https://www.concept2.nl/nl/service/software/ergdata/android-benodigdheden)
 * Blue tooth: Ensure that you have switched blue tooth on the device before clicking on the connect button in ergometer-space
-* Android + bluetooth connection problems: There are users reporting blue tooth connection problems on android. These problems hapenen on more cheaper android phones. You can try upgrading your phone to android 8 or above. It that still not works, you can run the app in the android chrome browser. This is explained in the blue tooth section.
+* Android + bluetooth connection problems: On some phones you need to enalbe location access in the privacy settings of your android device. [Some more info on how to do this](https://tileteam.zendesk.com/hc/en-us/articles/217069598-How-to-Turn-Location-On-or-Off-with-your-phone-or-tablet-) 
 * Browser: First try if it works in chrome. If you try to connect using Usb in chrome, please first read the guide how to do this because this in an feature which currently in beta test phase in chrome.
 * Check if you selected the correct connection type in the options.
   
