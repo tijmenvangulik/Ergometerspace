@@ -1,3 +1,6 @@
+* 2.7.9
+  - Allow stop scanning while scanning for blue tooth or web hid device
+  - fix bug switching between usb - blue tooth while connecting
 * 2.7.8
   - On some android devices the app could not connect to the PM5 using blue tooth. Made a fix for this.
 * 2.7.7 
