@@ -1,3 +1,6 @@
+* 2.8.0
+  - Disconnect button for bluetooth
+  - Moved help to the navbar menu
 * 2.7.9
   - Allow stop scanning while scanning for blue tooth or web hid device
   - fix bug switching between usb - blue tooth while connecting
