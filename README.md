@@ -10,7 +10,7 @@ Features
     * See each other and projected positions
     * Share your power curve to other rowers
     * Publish a high score
-    * Chat 
+    * Chat using text or audio
     * Traffic light
 - You can load your own map with a predefined course and show your rowing position on the map.
 - View your power curve and compare it with an base curve

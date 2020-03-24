@@ -1,3 +1,5 @@
+* 2.9.0
+  - Chat widget had now audio chat so you can talk to each other while rowing.
 * 2.8.0
   - Disconnect button for bluetooth
   - Moved help to the navbar menu
