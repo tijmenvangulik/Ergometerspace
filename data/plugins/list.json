@@ -22,5 +22,8 @@
 },
 { "name":"Map widget example using open layer",
   "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/Examples/MapWidget.JSON"
+},
+{ "name":"Row together race values example",
+  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/Examples/ExampleRaceValuesWidget.json"
 }
 ]

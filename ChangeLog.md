@@ -1,3 +1,7 @@
+* 2.9.1
+   - New Race values widget which shows the ergometer values of other rowers in your room
+   - Increased contrast of text in race widget
+   - Added an example plugin on how to write your own race values widget
 * 2.9.0
   - Chat widget can now use audio so you can talk to each other while rowing.
 * 2.8.0
