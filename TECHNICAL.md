@@ -23,7 +23,7 @@ In total there are 4 servers.
 * Html 5 features
   * websockets to your local driver
   * websockets to the server
-  * app cache. Which makes it possible to use all the ergometer controls without internet connection.
+  * web rtc peer to peer connection for audio and data
   * Most data is stored in the local storage of the client which reduces the server load and ensures that private data is kept private
   * animation frames for efficient animation
   * inline interactive svg

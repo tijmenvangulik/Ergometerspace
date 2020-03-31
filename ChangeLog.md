@@ -1,3 +1,7 @@
+* 2.9.2
+   - Added peer to peer expermimental public and private rooms. These rooms reduce the delay between updats and give a better rowing experience. 
+   - Improved documentation of the workout log and the login.
+   - Fix problem that the audio controls became visible 
 * 2.9.1
    - New Race values widget which shows the ergometer values of other rowers in your room
    - Increased contrast of text in race widget
