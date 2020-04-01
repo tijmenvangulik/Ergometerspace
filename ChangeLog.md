@@ -1,3 +1,5 @@
+* 2.9.3
+  - race widgets now shows other rowers rowing when you do not have a active training.
 * 2.9.2
    - Added peer to peer expermimental public and private rooms. These rooms reduce the delay between updates and give a better rowing experience. 
    - Improved documentation of the workout log and the login.
