@@ -1,3 +1,9 @@
+* 3.0.2
+  - Improved team animation in race widget
+  - Chat/speak to own team only option
+  - When rowing in a team , you can only share the curve with your team
+  - When activating audio microphone in is by default muted and fixed problem that it was not muted when a user loged in at later time.
+  - For team rooms: Give more insight when users can not connect to each other. (error handling and connection state in the team dialog) Also made some connection stability improvements. (Please contact me if users could not connect and make screen shots of the error messages, Keep in mind that the team feature is still experimental)
 * 3.0.0
   - Added Experimental team rower room which supports rowing in teams and watching the race as observer. The feature is also available for private rooms.
 * 2.9.4
