@@ -1,3 +1,6 @@
+* 3.0.3
+  - Show other rowers in team dialog (renamed teams menu item for this)
+  - Make connecting to team rooms more robust
 * 3.0.2
   - Improved team animation in race widget
   - Chat/speak to own team only option
