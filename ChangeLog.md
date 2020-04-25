@@ -1,3 +1,8 @@
+* 3.0.5
+  - Hot fix: The 3.0.4 broke the audio in the old rooms, now both rooms work
+* 3.0.4
+  - Fix disconnect problems when audio is switched on or off
+  - Reconnect button in the teams dialog
 * 3.0.3
   - Show other rowers in team dialog (renamed teams menu item for this)
   - Make connecting to team rooms more robust
