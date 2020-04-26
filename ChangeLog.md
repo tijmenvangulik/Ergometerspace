@@ -1,3 +1,5 @@
+* 3.0.6
+  - More team room fixes
 * 3.0.5
   - Hot fix: The 3.0.4 broke the audio in the old rooms, now both rooms work
 * 3.0.4
