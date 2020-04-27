@@ -1,3 +1,7 @@
+* 3.0.8
+  - Fix exit team room problem
+* 3.0.7
+  - Better logging to make fixing problems easier
 * 3.0.6
   - More team room fixes
 * 3.0.5
