@@ -1,7 +1,7 @@
 * 3.0.10
   - Allow scrolling in Map widget for desktop (not mobile, because it will block scrolling down the page)  
   - Undefined was shown in the work out log
-  - For readablity values are display bold and labels noraml
+  - For readability values are display bold and labels normal
   - Allow change font size of values in widget modify mode.
   - Race values widget: show as table or cards.
 * 3.0.8
