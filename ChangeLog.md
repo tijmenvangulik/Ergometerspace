@@ -1,3 +1,6 @@
+* 3.0.11
+  - Power percentage value widget. Show current power as % of the max power (The max power can be configured in the options)
+  - Race values widget. Show power and power percentage of other rowers. (All rowers will need the latest version)
 * 3.0.10
   - Allow scrolling in Map widget for desktop (not mobile, because it will block scrolling down the page)  
   - Undefined was shown in the work out log
