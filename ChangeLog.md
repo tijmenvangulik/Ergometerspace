@@ -1,3 +1,7 @@
+* 3.0.12
+  - Renamed widget "Race values" to "Values of rowers" because it can be used for more than just a race
+  - Blue tooth did not show the correct power value (USB worked correctly)
+  - Improved description of training/workout
 * 3.0.11
   - Power percentage value widget. Show current power as % of the max power (The max power can be configured in the options)
   - Race values widget. Show power and power percentage of other rowers. (All rowers will need the latest version)
