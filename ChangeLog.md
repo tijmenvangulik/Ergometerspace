@@ -1,3 +1,6 @@
+* 3.1.0
+  -  Support for fixed time work out. (race widget do not support this)
+  -  Give a warning when an unsupported type is used
 * 3.0.12
   - Renamed widget "Race values" to "Values of rowers" because it can be used for more than just a race
   - Blue tooth did not show the correct power value (USB worked correctly)
