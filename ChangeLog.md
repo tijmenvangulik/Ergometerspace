@@ -1,3 +1,7 @@
+* 3.1.1
+  - Backup and restore function
+  - All rooms are now by default team rooms. It is still possible to create backwards compattible private rooms
+  - Desktop apps: Added link to download when new version is shown
 * 3.1.0
   -  Support for fixed time work out. (race widget do not support this)
   -  Give a warning when an unsupported type is used
