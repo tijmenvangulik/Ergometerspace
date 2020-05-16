@@ -1,12 +1,12 @@
 * 3.1.4
- - Added recovery percentage (recovery time / total stroke time) *100%
- - History widget Leave out 0 y values (Gives better results not using start y on 0)
- - History widget show more horizontal lines
- - Fix power curve history was correctly set back when viewing history for a second time
- - Fix power curve history reset when start rowing after viewing an history
+  - Added recovery percentage (recovery time / total stroke time) *100%
+  - History widget Leave out 0 y values (Gives better results not using start y on 0)
+  - History widget show more horizontal lines
+  - Fix power curve history was correctly set back when viewing history for a second time
+  - Fix power curve history reset when start rowing after viewing an history
 * 3.1.1
- - Backup and restore function
- - All rooms are now by default team rooms. It is still possible to create backwards compatible private rooms
+  - Backup and restore function
+  - All rooms are now by default team rooms. It is still possible to create backwards compatible private rooms
   - Desktop apps: Added link to download when new version is shown
 * 3.1.0
   -  Support for fixed time work out. (race widget do not support this)
