@@ -1,3 +1,10 @@
+* 3.2.0
+  - Value widgets have now mini spark lines to quickly see the trend. (you can switch is off in the widget options)
+  - Some value widgets have a mini pie chart to see the progress  (you can switch is off in the widget options)
+  - The row together values widgets also has spark lines and pie charts.  
+  - The row together values widgets options are moved to the options which is only visible in widget edit mode.
+  - Improved version message
+  - Improved performance row together and battery usage when using blue tooth
 * 3.1.4
   - Added recovery percentage (recovery time / total stroke time) *100%
   - History widget Leave out 0 y values (Gives better results not using start y on 0)
@@ -42,7 +49,7 @@
   - Improved team animation in race widget
   - Chat/speak to own team only option
   - When rowing in a team , you can only share the curve with your team
-  - When activating audio microphone in is by default muted and fixed problem that it was not muted when a user loged in at later time.
+  - When activating audio microphone in is by default muted and fixed problem that it was not muted when a user logged in at later time.
   - For team rooms: Give more insight when users can not connect to each other. (error handling and connection state in the team dialog) Also made some connection stability improvements. (Please contact me if users could not connect and make screen shots of the error messages, Keep in mind that the team feature is still experimental)
 * 3.0.0
   - Added Experimental team rower room which supports rowing in teams and watching the race as observer. The feature is also available for private rooms.
@@ -51,7 +58,7 @@
 * 2.9.3
   - race widgets now shows other rowers rowing when you do not have a active training.
 * 2.9.2
-   - Added peer to peer expermimental public and private rooms. These rooms reduce the delay between updates and give a better rowing experience. 
+   - Added peer to peer experimental public and private rooms. These rooms reduce the delay between updates and give a better rowing experience. 
    - Improved documentation of the workout log and the login.
    - Fix problem that the audio controls became visible 
 * 2.9.1
@@ -77,17 +84,17 @@
 * 2.7.4
   - Hide test button
 * 2.7.3
-  - Fix for downloading dataserver
+  - Fix for downloading data server
 * 2.7.2
   - New bluetooth drivers which mainly fixes bluetooth issues
   - Web hid (web usb) fixes to make usb work in the latest chrome canary browser.
 * 2.7.0
-  - Public highscore for shark game
+  - Public high score for shark game
   - Fix boat model problem in android vr mode
   - Android blue tooth fixes (In the next version I do an large update the android blue tooth drivers, since it does not work stable any more on my android device.)
 * 2.6.4
   - android: less often show the new version available
-  - Added power curves to workout log. , curves will be visible in exports and when you choose "Show in Widgets" in the powercurve history widget
+  - Added power curves to workout log. , curves will be visible in exports and when you choose "Show in Widgets" in the power curve history widget
 * 2.6.3
   - Export csv, set separators in options
   - Export unique file name
@@ -129,7 +136,7 @@
 * 2.4.7
   - More efficient USB communication
   - Improved warning messages
-  - Fix race widget animation problem when pauzing in between
+  - Fix race widget animation problem when pausing in between
 
 * 2.4.6
   - Improved Version management (and notify about updates)
