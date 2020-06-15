@@ -13,6 +13,7 @@ Features
     * Chat using text or audio
     * Traffic light
     * login as observer to watch a race and collect the end times.
+    * Row together as one team and race against other teams
 - You can load your own map with a predefined course and show your rowing position on the map.
 - View your power curve and compare it with an base curve
 - Make your own base curve
@@ -23,7 +24,10 @@ Features
 - Paceboat where you can row agains your selves using an previous rowing session.
 - 3D and VR using a headset. (configure a pace boat to row agains your selves)
 - Record an replay of all the ergometer data plus an optional video. The import/export function allows you to give this data to a coach for further analysis.
- 
+- Test your condition in the 3d shark game
+- Spark lines in the value widgets to quickly see trends.
+- Connect to a blue tooth heart rate device or include the heart rate data from the concept2 performance monitor.
+  
 [Website](https://ergometer-space.org/)
 
 ## Topics

@@ -1,3 +1,5 @@
+* 3.3.0
+ - Connect to a blue tooth heart rate device or include the heart rate data from the concept2 performance monitor.
 * 3.2.0
   - Value widgets have now mini spark lines to quickly see the trend. (you can switch is off in the widget options)
   - Some value widgets have a mini pie chart to see the progress  (you can switch is off in the widget options)
