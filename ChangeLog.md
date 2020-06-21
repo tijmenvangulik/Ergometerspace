@@ -1,3 +1,7 @@
+* 3.4.0
+  - Widget which shows your heart rate as percentage of the  max rate. (you need to set the max heart rate in the options)
+  - Heart rate zone widget with configurable zones.
+  - Performance improvement setting back history data.
 * 3.3.0
   - Connect to a blue tooth heart rate device or include the heart rate data from the concept2 performance monitor.
 * 3.2.0

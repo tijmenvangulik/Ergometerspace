@@ -27,7 +27,7 @@ Features
 - Test your condition in the 3d shark game
 - Spark lines in the value widgets to quickly see trends.
 - Connect to a blue tooth heart rate device or include the heart rate data from the concept2 performance monitor.
-  
+- Show your heart rate as percentage of the total max rate or as graph in a heart rate zone widget. The zones and max heart rate are configurable.  
 [Website](https://ergometer-space.org/)
 
 ## Topics
