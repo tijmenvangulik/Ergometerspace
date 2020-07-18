@@ -1,3 +1,5 @@
+* 3.4.1
+  - Fix broken functionality when heart rate monitor was not connected
 * 3.4.0
   - Widget which shows your heart rate as percentage of the  max rate. (you need to set the max heart rate in the options)
   - Heart rate zone widget with configurable zones.
