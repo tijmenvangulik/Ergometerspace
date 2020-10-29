@@ -25,5 +25,8 @@
 },
 { "name":"Row together race values example",
   "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/Examples/ExampleRaceValuesWidget.json"
+},
+{ "name":"Blue tooth patch experiment",
+  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/Examples/patchBlueTooth.json"
 }
 ]
