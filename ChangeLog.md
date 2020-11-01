@@ -1,3 +1,10 @@
+* 3.4.3
+  - Fix double power curves (for newer concept2 firmware)
+  - Fix shark game does not restart
+  - Fix shark game flashing high scores while rowing
+  - Hide App reload menu item for android (because it breaks the blue tooth)
+* 3.4.2
+  - You can now connect to an usb in chromium based browers 
 * 3.4.1
   - Fix broken functionality when heart rate monitor was not connected
 * 3.4.0
