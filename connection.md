@@ -69,7 +69,7 @@ First check the following things:
 * Blue tooth. Check if you are using the latest firmware version of the concept 2 Performance monitor. There are many [firmware fixes](https://www.concept2.com/service/monitors/pm5/firmware/timeline#rownew)  
 * Android+Usb. Check if you connect using and special otg cable see this [link](https://www.concept2.nl/nl/service/software/ergdata/android-benodigdheden)
 * Blue tooth: Ensure that you have switched blue tooth on the device before clicking on the connect button in ergometer-space
-* Android + bluetooth connection problems: On some phones you need to enalbe location access in the privacy settings of your android device. [Some more info on how to do this](https://tileteam.zendesk.com/hc/en-us/articles/217069598-How-to-Turn-Location-On-or-Off-with-your-phone-or-tablet-) 
+* Android + bluetooth connection problems: On some phones you need to enalbe location access in the privacy settings of your android device. [Some more info on how to do this](https://tileteam.zendesk.com/hc/en-us/articles/217069598-How-to-Turn-Location-On-or-Off-with-your-phone-or-tablet-) There is an option in the options "Work around limited blue tooth hardware". You try this feature if the you can still not a make it work. You may have to restart the app after switching on the feature.
 * Browser: First try if it works in chrome. If you try to connect using Usb in chrome, please first read the guide how to do this because this in an feature which currently in beta test phase in chrome.
 * Check if you selected the correct connection type in the options.
   
