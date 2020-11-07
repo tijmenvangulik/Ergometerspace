@@ -1,5 +1,5 @@
 * 3.4.4
-  - Extra option to work around limited blue tooth hardware.  Use this if you have blue tooth connection problems.This is somtimes the case when using cheaper or older phones.
+  - Extra option to work around limited blue tooth hardware.  Use this if you have blue tooth connection problems.This is sometimes the case when using cheaper or older phones.
   - For android 10 added extra permissions for blue tooth
 * 3.4.3
   - Fix double power curves (for newer concept2 firmware)
