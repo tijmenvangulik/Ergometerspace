@@ -11,8 +11,8 @@ If you need more help, check the last chapter on this page.
 
 ## Use Usb to connect to a PM3-5
 
-* Chrome with experimental features turned on 
-  ( chrome://flags/#enable-experimental-web-platform-features )
+* chromium based browsers like chrome, brave, te latest edge.
+ 
 * Desktop/laptop: Download and install the app from the the download menu. It is compatible with 
   - Mac OS X [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg)
   - Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)
