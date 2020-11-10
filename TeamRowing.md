@@ -31,7 +31,7 @@ Start the race using the traffic light widget.
 
 Use the race widget to see the progress of the race
 
-![](PastedGraphic-5.jpg)
+![](Images/PastedGraphic-5.jpg)
 
 Use the “values of rowers” widget to check on all the detail data  of the rowers during the race. 
 
@@ -52,7 +52,7 @@ See the chapter [Organize your dashboard](#organize-your-dashboard) to see how t
 7. Type your user name
 8. press the login button
 
-![](PastedGraphic-1.jpg)
+![]((Images/PastedGraphic-1.jpg)
 
 In the next screen you can see other rowers which are loged in and see if your team is complete.
 You must fill in the distance which you want to race. You can still open the same screen after closing it from the menu.
