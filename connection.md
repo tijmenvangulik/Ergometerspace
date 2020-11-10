@@ -1,3 +1,12 @@
+# Contents
+
+- [Contents](#contents)
+- [Connect to the ergometer](#connect-to-the-ergometer)
+  - [Use Usb to connect to a PM3-5](#use-usb-to-connect-to-a-pm3-5)
+  - [Use bluetooth (PM5 only)](#use-bluetooth-pm5-only)
+  - [Ergometer Data server (deprecated)](#ergometer-data-server-deprecated)
+- [Help I can not connect](#help-i-can-not-connect)
+
 # Connect to the ergometer
 
 There are multiple ways too connect ergometer-space to a concept 2 ergometer:
@@ -61,7 +70,7 @@ Compatible with:
 
 The server can be used to connect multiple ergometers to one or more browsers.
 
-## Help I can not connect
+# Help I can not connect
 
 First check the following things:
 
