@@ -23,7 +23,7 @@ Every team should have a team captain/stroke. Make sure that every team knows wh
 From the room drop down in the menu select "New private room”
 Fill in your user name , room name, password. choose “as observer” in the “join room as “ field
 
-Do not logout , when no one is loged in into the room the room is deleted
+Do not logout , when no one is logged in into the room the room is deleted
 
 from menu you can start the "teams & room users" dialog. You can see here if all the teams are complete.
 
@@ -132,6 +132,8 @@ Then click on the + button in the left corner to open the widget menu. Now Open 
 
 Coaches can also add the value of rowers widget to see the race details.
 
+The widget with the 3d rower costs a lot of process power/energy. If you do not use it, it is better to close it.
+
 Widgets in detail:
 
 ## Race widget
@@ -154,6 +156,6 @@ See the details of the rowers. This is usefull for the coach. Not all values are
 
 # Trouble shooting room connections
 
-From menu you can start the "teams & room users" dialog. It shows all the users in the room. If a user has joined but is not correctly connected due to connection problems it is shown in the list with the text "not connected!". The user which has the connection problems should press the button "Reconnect to rowers" to fix the problem. If this still does not work the user may be behind a fire wall which does not allow web rtc internet trafic.
+From menu you can start the "teams & room users" dialog. It shows all the users in the room. If a user has joined but is not correctly connected due to connection problems it is shown in the list with the text "not connected!". The user which has the connection problems should press the button "Reconnect to rowers" to fix the problem. If this still does not work the user may be behind a fire wall which does not allow web rtc internet traffic.
 
 As alternative you could also create a room with the option "backwards compatible room" check box turned on. This kind of room has less problems with network connections. The disadvantage of these kind of rooms are that net work is much slower and it is less scalable (resulting slower updates)
