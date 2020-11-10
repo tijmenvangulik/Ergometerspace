@@ -1,3 +1,5 @@
+# Index
+
 # Introduction
 
 Ergometer rowing web app for concept 2
@@ -45,3 +47,5 @@ Features
 [Technical background](TECHNICAL.md)
 
 [Privacy](Privacy.md)
+
+[Team rowing tutorial](TeamRowing.md)

@@ -1,6 +1,6 @@
 # Introduction
 
-In ergometer space you can row together online. This document describes how to organize a team rowing and how rowers can join teams and start racing. 
+In ergometer space you can row together online. This document describes how to organize a team rowing and how rowers can join teams and start racing.  
 
 # Roles
 
@@ -39,11 +39,11 @@ At the end of the race you can see the end times of all the rowers in the "work 
 
 As organizer you should not invite too many users in the observer role since this may increase the network load and decrease the race quality.
 
-See the chapter [Organize your dashboard](#Organize your dashboard) to see how to prepare your dashboard.
+See the chapter [Organize your dashboard](##organize-your-dashboard) to see how to prepare your dashboard.
 
 ## Team captain
 
-1. Open: https://ergometer-space.org/#
+1. Open the app: https://ergometer-space.org/#
 2. open the menu and go to Enter room
 3. Select the race in the first drop down
 4. Select as team captain in the next drop down
@@ -65,7 +65,7 @@ When your team is complete the boat will start when the team captain starts rowi
 
 See the chapter [Organize your dashboard](#Organize your dashboard) to see how to prepare your dashboard for racing.
 
-Read the document [Connecting to the ergometer](connection.md) on how to connect to your ergometer.
+Read the document [Organize your dashboard](##organize-your-dashboard) on how to connect to your ergometer.
 
 Wait for the traffic light to go green and start rowing.
 
@@ -73,7 +73,7 @@ Wait for the traffic light to go green and start rowing.
 
 A team rower rows with other rowers in one boat.
 
-1. Open: https://ergometer-space.org/#
+1. Open the app: https://ergometer-space.org/#
 2. open the menu and go to Enter room
 3. select the race from the first drop down
 4. Choose “as team rower” from the second
@@ -93,15 +93,15 @@ In the race widget you see your team and how many team members are joined.
 
 ![](Images/PastedGraphic-5.jpg)
 
-See the chapter [Organize your dashboard](#Organize your dashboard) to see how to prepare your dashboard for racing.
-
+See the chapter [Organize your dashboard](##organize-your-dashboard) to see how to prepare your dashboard for racing.
+  
 Read the document [Connecting to the ergometer](connection.md) on how to connect to your ergometer.
 
 Wait for the traffic light to go green and start rowing
 
 ## Coach or an observer
 
-1. Open: https://ergometer-space.org/#
+1. Open the app: https://ergometer-space.org/#
 2. open the menu and go to Enter room
 3. select the race from the first drop down
 4. Choose “as observer” from the second
