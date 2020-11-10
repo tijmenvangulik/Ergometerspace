@@ -39,7 +39,7 @@ At the end of the race you can see the end times of all the rowers in the "work 
 
 As organizer you should not invite too many users in the observer role since this may increase the network load and decrease the race quality.
 
-See the chapter [Organize your dashboard](##organize-your-dashboard) to see how to prepare your dashboard.
+See the chapter [Organize your dashboard](#organize-your-dashboard) to see how to prepare your dashboard.
 
 ## Team captain
 
@@ -65,7 +65,7 @@ When your team is complete the boat will start when the team captain starts rowi
 
 See the chapter [Organize your dashboard](#Organize your dashboard) to see how to prepare your dashboard for racing.
 
-Read the document [Organize your dashboard](##organize-your-dashboard) on how to connect to your ergometer.
+Read the document [Organize your dashboard](#organize-your-dashboard) on how to connect to your ergometer.
 
 Wait for the traffic light to go green and start rowing.
 
@@ -93,7 +93,7 @@ In the race widget you see your team and how many team members are joined.
 
 ![](Images/PastedGraphic-5.jpg)
 
-See the chapter [Organize your dashboard](##organize-your-dashboard) to see how to prepare your dashboard for racing.
+See the chapter [Organize your dashboard](#organize-your-dashboard) to see how to prepare your dashboard for racing.
   
 Read the document [Connecting to the ergometer](connection.md) on how to connect to your ergometer.
 
