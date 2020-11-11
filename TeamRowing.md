@@ -2,6 +2,12 @@
 
 In ergometer space you can row together online. This document describes how to organize a team rowing and how rowers can join teams and start racing.  
 
+Ergometer space is available trough:
+* [Website](https://ergometer-space.org/)  (Use a chromium based web browser like Chrome,Brave,Edge (The latest))
+* Android [download from the play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace)
+* Mac [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg)
+* Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)
+
 # Roles
 
 There are 4 diffent roles:
