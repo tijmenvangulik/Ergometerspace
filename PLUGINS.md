@@ -1,3 +1,10 @@
+---
+layout: pageContent
+title: Plugins
+nav-menu: false
+show_tile: false
+---
+
 # Development environment
 
 Plugins can be developed within the application. The plugins are written in typescript/javascript. 

@@ -1,13 +1,18 @@
-# Technical background
+---
+layout: pageContent
+title: Technical background
+nav-menu: false
+show_tile: false
+---
 
-## Internal ergometer driver
+# Internal ergometer driver
 
 The source code of the ergometer driver which is used by ergometer-space is located in another repository:
   https://github.com/tijmenvangulik/ErgometerJS
 
 Some plugin examples are open source, The rest of the software is not open source.
 
-## Server
+# Server
 
 * Server written in Node.js which has very hight performance and had good deployment in the cloud
  (frameworks express, socket.io, jake)
@@ -18,7 +23,7 @@ In total there are 4 servers.
   * manager which functions as a dictionary where the rooms are
   * 2 room servers which manage each 3 rooms. This can scale to many servers which are spread over the internet. One room can only run on one server.
 
-## Web app
+# Web app
 
 * Html 5 features
   * websockets to your local driver
@@ -31,7 +36,7 @@ In total there are 4 servers.
 * There is a 3d model for the animations. This will make it possible to later use real web 3d
 * NTP time synchronization
 
-## Data server
+# Data server
 
 * Written in C++ and build on top of boost. 
 * All code should be portable to other systems including embedded systems

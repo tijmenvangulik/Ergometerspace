@@ -1,3 +1,10 @@
+---
+layout: pageContent
+title: Connect to the ergometer
+nav-menu: true
+show_tile: false
+---
+
 # Contents
 
 - [Contents](#contents)
@@ -45,7 +52,7 @@ Compatible with:
 * Mobile: Ergometer-space app for android (native support, download the app from the play store)
   - [Android play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace&gl=NL)
   - Chrome browser running on an android device. If it is not already installed you can download it from the [play store](https://play.google.com/store/apps/details?id=com.android.chrome&referrer=utm_source%3Dhelp-center%26utm_medium%3Dhc-answer%26utm_campaign%3Dhelp-center-mg) Start the [website](https://ergometer-space.org) and use the chrome function "add to home screen" to add the ergometer app to your home screen.
-  - iOS: I do not support iOS. There is one work arround to run the app on an iPhone. Install the [WebBLE browser app](https://apps.apple.com/us/app/webble/id1193531073) on your iPhone. The start the [website](https://ergometer-space.org) in the browser. There are a view limitations:
+  - iOS: I do not support iOS. There is one work arround to run the app on an iPhone. Install the [WebBLE browser app](https://apps.apple.com/us/app/webble/id1193531073) or [blue fy ble browser](https://apps.apple.com/us/app/bluefy-web-ble-browser/id1492822055) on your iPhone. The start the [website](https://ergometer-space.org) in the browser. There are a view limitations:
     - Vr widget does not work (best to close this widget)
     - The top statusbar does look a bit strange when scolling.
     - There is no sleep prevention.

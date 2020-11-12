@@ -1,4 +1,9 @@
-# Privacy
+---
+layout: pageContent
+title: Privacy
+nav-menu: false
+show_tile: false
+---
 
 This app is created just for fun. I am not interested in your data or am a selling your data to third parties. Data is stored as much as possible in the local storage on your device or pc.
 

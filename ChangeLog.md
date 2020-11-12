@@ -1,3 +1,10 @@
+---
+layout: pageContent
+title: Change log
+nav-menu: true
+show_tile: true
+---
+
 * 3.4.4
   - Extra option to work around limited blue tooth hardware.  Use this if you have blue tooth connection problems.This is sometimes the case when using cheaper or older phones.
   - For android 10 added extra permissions for blue tooth
@@ -194,3 +201,4 @@
 
 * 2.0.11
   - Fixed problem when loading plugin from file.
+

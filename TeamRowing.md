@@ -1,3 +1,10 @@
+---
+layout: pageContent
+title: Team rowing
+nav-menu: false
+show_tile: false
+---
+
 # Introduction
 
 In ergometer space you can row together online. This document describes how to organize a team rowing and how rowers can join teams and start racing.  

@@ -1,3 +1,10 @@
+---
+layout: pageContent
+title: Creating a map
+nav-menu: false
+show_tile: false
+---
+
 ## Create an map with a route for ergometer space
 Create a route with google maps and import it into the ergometer space maps widget
 
