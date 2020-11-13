@@ -44,7 +44,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Row together</h3>
 				</header>
-				<p>Row together online. (Alone or as a team in one boat) Connect to an ergometer room and share your session</p>
+				<p>Rowing together online. (Alone or as a team in one boat) Connect to an ergometer room and share your session</p>
 <ul>
    <li> See each other and projected positions (works with the race,map,vr widgets,power curve)</li>
    <li> Publish a high score</li>
