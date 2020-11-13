@@ -3,7 +3,7 @@ title: Ergometer-space
 subtitle:  Documentation
 email: tijmen@vangulik.org
 description: Documentation for the ergometer space online rowing app
-baseurl: "/ergometer-space" # the subpath of your site, e.g. /blog
+baseurl: /Ergometerspace # the subpath of your site, e.g. /blog
 url: https://tijmenvangulik.github.io # the base hostname & protocol for your site
 author: Tijmen van Gulik
 street_address: 
