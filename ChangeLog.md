@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.4.6
+  - Fix wrong android build
 * 3.4.5
   - New documentation web site
   - New introduction page
