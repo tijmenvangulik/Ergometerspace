@@ -11,55 +11,49 @@ Create a route with google maps and import it into the ergometer space maps widg
 First start google maps and make sure that you are logged in into google
 
 ![](1.png)
-￼
 
-open the menu and start your places
-￼
+
+Open the menu and start your places
+
 ![](2.png)
 
 goto maps and choose create map
 
-￼
 ![](3.png)
 
-choose the draw line tool
+Choose the draw line tool
 
 ![](4.png)
-￼
 
 Draw a route. It must sinle set a set of connected lines. Just click on the points where you want the line.
 the application does not support closed lines. Just let the end point stop close to the start point if you want a round track.
 
 ![](5.png)
-￼
 
 Double click on the last point . a dialog opens , give the route a name and save.
 
 ![](6.png)
-￼
 
 click on the style and increase the line width
 
 ![](7.png)
-￼
 
 Open the menu on the the untiled layer and chose rename layer
 
-give the layer an name
-￼
+Give the layer an name
+
 ![](8.png)
 
+Open the top menu and choose export to KML
 
-open the top menu and choose export to KML
-￼
 ![](9.png)
 
 Choose the layer name which you have given
 Check the checkbox export to a .KML file
 
-then press download
+Then press download
 
-now you have a file which looks like this:
+Now you have a file which looks like this:
 
 ```xml
 <?xml version='1.0' encoding='UTF-8'?>
@@ -106,26 +100,23 @@ now you have a file which looks like this:
 </kml>
 ```
 
-go to the ergometer space and click on the tool buton on the map plugin
+Go to the ergometer space and click on the tool buton on the map plugin
 
 Click on load file
 
 ![](10.png)
-￼
+
 
 Now the route looks like this:
 
 ![](11.png)
 
-#sharing your creation
-￼
+# Sharing your creation
+
 The shared maps are stored on github. You can fork te repository an push your own map
 
-  https://github.com/tijmenvangulik/Ergometerspace/tree/master/data/maps
+  [https://github.com/tijmenvangulik/Ergometerspace/tree/master/data/maps](https://github.com/tijmenvangulik/Ergometerspace/tree/master/data/maps)
   
 place the kml file in the map directory and add a reference to the list.json
   
-You can also send it to me using mail: tijmen@vangulik.org
-
-
-
+You can also send it to me using mail: [tijmen@vangulik.org](mailto:tijmen@vangulik.org)

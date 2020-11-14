@@ -84,7 +84,7 @@ show_tile: true
 * 3.0.0
   - Added Experimental team rower room which supports rowing in teams and watching the race as observer. The feature is also available for private rooms.
 * 2.9.4
- - fix problem that training data is not always up to date after joining room in the new peer to peer rooms
+  - fix problem that training data is not always up to date after joining room in the new peer to peer rooms
 * 2.9.3
   - race widgets now shows other rowers rowing when you do not have a active training.
 * 2.9.2
