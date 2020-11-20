@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.4.7 (android only)
+  - Fix connection problem for android 9 and 10.
+  - upgrade to android api level 29
 * 3.4.6
   - Fix wrong android build
 * 3.4.5
