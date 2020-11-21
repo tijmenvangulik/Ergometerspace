@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.4.8 (android only)
+  - fix usb connection problem which som times happens if you connect for the first time
 * 3.4.7 (android only)
   - Fix connection problem for android 9 and 10.
   - upgrade to android api level 29
