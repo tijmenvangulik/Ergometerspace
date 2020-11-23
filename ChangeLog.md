@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.4.9
+  - The shark starts at a larger distance. This make it easier to start with the shark game.
 * 3.4.8 (android only)
   - fix usb connection problem which som times happens if you connect for the first time
 * 3.4.7 (android only)
