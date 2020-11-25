@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.5.0
+  - Better connectivity for Team rowing. In the previous versions some users could not connect due to network limitations. (especially mobile networks) This is now fixed. There are a view limitations:
+    - All the rowers must use the latest version 3.5.0
+    - When your network does not support direct connections the communication goes via the central server. This can sometimes result in a bit slower updates. 
+    - Audio is only supported for users which are directly connected.
 * 3.4.9
   - The shark starts at a larger distance. This make it easier to start with the shark game.
 * 3.4.8 (android only)
