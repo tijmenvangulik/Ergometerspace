@@ -178,6 +178,12 @@ See the details of the rowers. This is useful for the coach. Not all values are 
 
 # Trouble shooting room connections
 
-From the menu you can start the "teams & room users" dialog. It shows all the users in the room. If a user has joined but is not correctly connected due to connection problems it is shown in the list with the text "not connected!". The user which has the connection problems should press the button "Reconnect to rowers" to fix the problem. If this still does not work the user may be behind a fire wall which does not allow web rtc internet traffic.
+From the menu you can start the "teams & room users" dialog. It shows all the users in the room. If a user has joined but is not correctly connected due to connection problems it is shown in the list with the text "not connected!". There are a view possible errors
+  - not connected! old version of the app.
+    This user should upgrade to the latest version (at least 3.5.0).
+  - Connected via server, no audio.
+    The user is connected, you can row together. This happens your network does not support direct connections the communication goes via the central server. This can sometimes result in a bit slower updates.  Audio is not supported for this user. Using a wifi instead of a mobile connection may help.
+  - not connected!
+    You can not connect at all maybe the network it selves is down. Check your wifi/network cables or mobile network provider.
 
 As alternative you could also create a room with the option "backwards compatible room" box checked. This kind of room has less problems with network connections. The disadvantage of these kind of rooms are that networking is much slower and it is less scalable (resulting slower updates)
