@@ -4,6 +4,12 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.5.1
+  - race track widget:
+    - More smooth relative position animation
+    - Fixed wrong text formatting of distance and warning 
+    - Improved styling
+  - New demo recording
 * 3.5.0
   - Better connectivity for Team rowing. In the previous versions some users could not connect due to network limitations. (especially mobile networks) This is now fixed. There are a view limitations:
     - All the rowers must use the latest version 3.5.0
