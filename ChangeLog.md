@@ -4,6 +4,12 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.5.2
+  - New style menu and toolbar
+  - Fixed half visible widget close icon on android
+  - Improved style race widget
+  - Improved performance of the race widgets (should use less energy)
+  - More help full error messages for team rowing
 * 3.5.1
   - race track widget:
     - More smooth relative position animation
