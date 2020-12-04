@@ -4,6 +4,12 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.5.3
+  - Improved layout of history settings dialog
+  - Fix bug that the map widget lost the zoom factor when the dialog is opened/closed after an refresh
+  - The row together race/race values/map/vr widgets stopped working when another row together widget was closed. This is a breaking changes for the plugins which are using events.
+  - Android: Removed elastic bounce (showing the hidden menu)
+  - Android: fix white border in dialog header
 * 3.5.2
   - New style menu and toolbar
   - Fixed half visible widget close icon on android

@@ -177,8 +177,8 @@ Widgets subscribe them selves to ergometer data events to receive information. T
 	    		this.paint();
 	    	}
 	    	else { 
-	    		pm3.monitor.pubsubs.unsubStrokeDataUpdate(this.strokeDataUpdate);
-	    		pm3.monitor.pubsubs.unsubTrainingDataUpdate(this.trainingDataUpdate); 
+	    		pm3.monitor.pubsubs.unsubStrokeDataUpdate(this,this.strokeDataUpdate);
+	    		pm3.monitor.pubsubs.unsubTrainingDataUpdate(this,this.trainingDataUpdate); 
 	    	}
 	    	super.visibleChanged();
 	    }
