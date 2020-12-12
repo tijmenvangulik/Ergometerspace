@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.0
+  - Login links. This function will help you to organize a race with many rowers. You can create a link to let users directly login into a room and join a team. The link can be copy pasted into a mail which you send to the rowers. It is also possible to include a prepared dashboard in the link.
 * 3.5.3
   - Improved layout of history settings dialog
   - Fix bug that the map widget lost the zoom factor when the dialog is opened/closed after an refresh
