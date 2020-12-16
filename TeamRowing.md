@@ -30,9 +30,9 @@ In this tutorial I assume that the coach organizes the race event. In practice t
 1. Prepare
 First make sure that every member knows the room name and password which is required for the login.
 Make sure that there is some kind of naming convention for the users names (for example use your actual name) other wise you have no idea to who you are talking.
-Every team should have a team captain/stroke. Make sure that every team knows who is the team captain and which team they should be joining.
+Every team should have a team captain. Make sure that every team knows who is the team captain and which team they should be joining.
 
-2. First the coach creates a private room
+1. First the coach creates a private room
 From the room drop down in the menu select "New private room”
 Fill in your user name , room name, password. choose “as observer” in the “join room as “ field
 
