@@ -4,6 +4,14 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.2
+  - Optimized race track and value widgets
+    - More options (Relevance/Alphabetically/Do not sort)
+    - Show relative position option
+    - Scaling and size fixes
+    - Better performance
+    - Show column borders race values widget
+  - Vr widgets now sorts rowers alphabetically (prevents track switches during racing)
 * 3.6.1
   - When the team captain exits the room/team the system now chooses a new team captain and the race continues with only a short interruption. This will only work correctly when all team members use at least version 3.6.1.
   - Fixed login link captain assignment problem when using multiple teams
