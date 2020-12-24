@@ -4,6 +4,12 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.3
+  - Reorganized the main menu. It is now more mobile friendly.
+  - Room login is now moved to a new more mobile friendly dialog .
+  - Language selection is moved to the options
+  - Fixed problem with not visible help buttons in widget arrange mode
+  - Easier scrolling in widget arrange mode on mobile phones.
 * 3.6.2
   - Optimized race track and value widgets
     - More options (Relevance/Alphabetically/Do not sort)
