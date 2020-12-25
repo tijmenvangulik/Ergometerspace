@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.4
+  - Small hot fix on new enter room dialog
 * 3.6.3
   - Reorganized the main menu. It is now more mobile friendly.
   - Room login is now moved to a new more mobile friendly dialog .
