@@ -59,7 +59,7 @@ As organizer you should not invite too many users in the observer role since thi
 
 1. Open the app: https://ergometer-space.org/#
 2. Open the menu and go to Enter room
-3. Select the race in the first drop down
+3. Select the room/race in the first drop down
 4. Select as team captain in the next drop down
 5. Type a name for your team
 6. Enter the room password
@@ -91,7 +91,7 @@ A team rower rows with other rowers in one boat.
 
 1. Open the app: https://ergometer-space.org/#
 2. Open the menu and go to Enter room
-3. Select the race from the first drop down
+3. Select the room/race from the first drop down
 4. Choose “as team rower” from the second
 5. Type in the room password
 6. Type in you own user name
@@ -122,7 +122,7 @@ Read the document [Connecting to the ergometer](connection.md) on how to connect
 
 1. Open the app: https://ergometer-space.org/#
 2. Open the menu and go to Enter room
-3. Select the race from the first drop down
+3. Select the room/race from the first drop down
 4. Choose “as observer” from the second
 5. Type in the room password
 6. Type in you own user name

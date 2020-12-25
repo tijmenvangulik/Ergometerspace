@@ -33,10 +33,10 @@ Team boats will go at the average speed of the rowers. This also means that no m
 The race organizer will send al link (url) to every one who is going to attend. In your mail / app you have to give some tell the users that to do with the link. Some thing like this:
 
     Please open the link in a chromium based browser (for example chrome/edge/brave/opera) or a native app ergometer-space installed on the phone/computer. 
-    When you use a native app you have to copy the link, open the login link from the menu and paste the link into the text box. Press login to login.
+    When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
 
 ## creating links
-To create a link go in the menu to Login link and then go to the tab create. 
+To create a link go in the menu to Direct login link and then go to the tab create. 
 
 All the properties on how the room is created are stored in the link. When you change a property like for example the password or a login type you have to send the the link to the user(s). If for example one of your users still uses the old link things may go wrong because if that user uses the link with an old room password other users will not be able to login because they use the new password. It is best to not change these properties and when you do change the name of the room when you resend a changed url to all your users.
 
@@ -46,7 +46,7 @@ Fill in:
 * User name. Send every user a different link with a unique user name.
 * Login type: It is not possible to change your login type. It is possible to join another team, but team captains can not join another team because they are the owner of the team. To do this you have to send multiple links or the users can log off/on to get a different role.
 * Include dashboard: Check this if you want to send a prepared dashboard to the users. A observer may want to see different things than a rower. When you use a map for the race you may want to include the map widget. The widget positions in the current dashboard will be exported. (not all the properties of the widgets)
-* Hidden room: Your private room will not be shown publicly to other users. Users can only login using a login link and not from the menu. Checking this option will make it a bit safer. If some one knows your room name he could create a room with the same name just before you with a different password. You and your users will not be able to login any more and you have to create new links. With this option no one else will see and know your room name.
+* Hidden room: Your private room will not be shown publicly to other users. Users can only login using a Direct login link and not from the menu. Checking this option will make it a bit safer. If some one knows your room name he could create a room with the same name just before you with a different password. You and your users will not be able to login any more and you have to create new links. With this option no one else will see and know your room name.
 * Welcome text: Text which is shown before the user logs in.
 * Map: Url to a kml file which contains the map. This option is nice if you want do a race which is normally on the water online using ergometers. See the topic  [maps](Maps/index.md)
   
@@ -78,7 +78,7 @@ As organizer you should not invite too many users in the observer role since thi
 # Observers
 
 Please open the link which is given to you in a chromium based browser (for example chrome/edge/brave/opera) or a native app ergometer-space installed on the phone/computer. 
-When you use a native app you have to copy the link, open the login link from the menu and paste the link into the text box. Press login to login.
+When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
 
 Now you can watch the race or chat with other rowers.
 
@@ -89,7 +89,7 @@ Enjoy watching the race.
 # Solo rowers
 
 Please open the link which is given to you in a chromium based browser (for example chrome/edge/brave/opera) or a native app ergometer-space installed on the phone/computer. 
-When you use a native app you have to copy the link, open the login link from the menu and paste the link into the text box. Press login to login.
+When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
 
 After the login connect the ergometer and set your ergometer to the same distance.
 
@@ -98,7 +98,7 @@ See the chapter [Organize your dashboard](#Organize your dashboard) to see how t
 # Team rowers
 
 Please open the link which is given to you in a chromium based browser (for example chrome/edge/brave/opera) or a native app ergometer-space installed on the phone/computer. 
-When you use a native app you have to copy the link, open the login link from the menu and paste the link into the text box. Press login to login.
+When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
 
 When you are the first team member which logs in you will become the team captain. A team captain controls the distance and the team will be removed when the team member logs off.
 
