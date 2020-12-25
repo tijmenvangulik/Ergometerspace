@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.5
+  - Restructure options dialog
+  - Quick feedback option
 * 3.6.4
   - Small hot fix on new enter room dialog
 * 3.6.3
