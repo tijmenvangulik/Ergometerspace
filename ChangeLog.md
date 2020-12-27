@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.6
+  - Layout changes
+  - Removed confusing debug drop down in power charts
+  - Minor performance enhancements
 * 3.6.5
   - Restructure options dialog
   - Quick feedback option
