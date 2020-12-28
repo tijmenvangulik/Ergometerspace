@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.7
+  - Fix connection type was not always filled in options
 * 3.6.6
   - Layout changes
   - Removed confusing debug drop down in power charts
