@@ -9,6 +9,7 @@ show_tile: false
 
 - [Contents](#contents)
 - [Connect to the ergometer](#connect-to-the-ergometer)
+  - [Overview](#overview)
   - [Use Usb to connect to a PM3-5](#use-usb-to-connect-to-a-pm3-5)
   - [Use bluetooth (PM5 only)](#use-bluetooth-pm5-only)
   - [Ergometer Data server (deprecated)](#ergometer-data-server-deprecated)
@@ -25,9 +26,25 @@ For the best connection experience you can download a native app in from the dow
 
 If you need more help, check the last chapter on this page.
 
+## Overview
+
+|          |                 | USB PM3-5 | PM5 Blue tooth |
+|----------|-----------------|-----------|----------------|
+| Mac os X | Web browser(*)  | yes       | yes            |
+|          | Native app      | < Big Sur | yes            |
+| Windows  | Web browser(*)  | yes       | yes            |
+|          | Native app      | yes       | yes            |
+| Android  | Web browser(*)  | no        | yes            |
+|          | Native app      | yes       | yes            |
+| IOS      | Web browser(**) | no        | yes            |
+
+(*) Chromium based web browser like chrome, brave, vialdi, opera, latest edge
+
+(**) Use special web browser app "blue fy"  or "ble browser"
+
 ## Use Usb to connect to a PM3-5
 
-* Web: Chromium based browsers like chrome, brave,vialdi,opera, te latest edge.
+* Web: Chromium based browsers like chrome, brave, vialdi, opera latest edge.
  
 * Desktop/laptop: Download and install the app from the the download menu. It is compatible with 
   - Mac OS X [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg) (works till 10.15, Not big sur, use browser instead)
