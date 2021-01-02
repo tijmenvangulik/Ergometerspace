@@ -31,7 +31,7 @@ If you need more help, check the last chapter on this page.
 |          |                 | USB PM3-5 | PM5 Blue tooth |
 |----------|-----------------|-----------|----------------|
 | Mac os X | Web browser(*)  | yes       | yes            |
-|          | Native app      | < Big Sur | yes            |
+|          | Native app      | yes       | yes            |
 | Windows  | Web browser(*)  | yes       | yes            |
 |          | Native app      | yes       | yes            |
 | Android  | Web browser(*)  | no        | yes            |

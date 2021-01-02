@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.8 (web only)
+  - Improved blue tooth connection (especially for android).
+  - Fix iOS close button widget wrongly positioned
+  - Fix that some settings where not saved
 * 3.6.7
   - Fix connection type was not always filled in options
 * 3.6.6
