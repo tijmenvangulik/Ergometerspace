@@ -4,6 +4,12 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.9
+  - Better Ios support (native ios version available in test flight, you can request an invitation to test it)
+  - Improved colors and visibility power curve and history widget
+  - Heart rate zones, active zone now visible
+  - Small textual changes
+  - Easier to select widgets on mobile phones
 * 3.6.8 (web only)
   - Improved blue tooth connection (especially for android).
   - Fix iOS close button widget wrongly positioned
