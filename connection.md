@@ -41,7 +41,6 @@ If you need more help, check the last chapter on this page.
 
 (*) Chromium based web browser like chrome, brave, vialdi, opera, latest edge
 (**) Use special web browser app "blue fy"  or "ble browser"
-(***) Available in test flight only. You can asm me for a invitation to use it.
 
 ## Use Usb to connect to a PM3-5
 
@@ -64,14 +63,9 @@ Compatible with the following platforms:
 * Mobile: Ergometer-space app for android (native support, download the app from the play store)
   - [Android play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace&gl=NL)
   - Chrome browser running on an android device. If it is not already installed you can download it from the [play store](https://play.google.com/store/apps/details?id=com.android.chrome&referrer=utm_source%3Dhelp-center%26utm_medium%3Dhc-answer%26utm_campaign%3Dhelp-center-mg) Start the [website](https://ergometer-space.org) and use the chrome function "add to home screen" to add the ergometer app to your home screen.
-  - iOS: I do not (yet) fully support iOS. There is one work arround to run the app on an iPhone. Install the [WebBLE browser app](https://apps.apple.com/us/app/webble/id1193531073) or [blue fy ble browser](https://apps.apple.com/us/app/bluefy-web-ble-browser/id1492822055) on your iPhone. The start the [website](https://ergometer-space.org) in the browser. There are a view limitations:
-    - Vr widget does not work (best to close this widget)
-    - The top statusbar does look a bit strange when scolling.
-    - There is no sleep prevention.
-    - Only blue tooth (PM5 support)
+  - [Apple app store](https://apps.apple.com/us/app/ergometer-space/id1548193188)  
+    (the ios version does not have usb, audio,vr or video support )
     
-    A native version is available in test flight. You can asm me for a invitation to use it.
-
 * Desktop/laptop: Ergometer-space Desktop App (download from the download menu)
   - Mac OS X [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg) (works till 10.15, Not big sur, use browser instead)
   - Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)

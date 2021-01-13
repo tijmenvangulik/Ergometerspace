@@ -8,6 +8,7 @@ show_tile: true
   - Fix scrolling issues in widget edit mode
   - Fix scroll to top problem when clicking on a menu item
   - Fix scroll problem in ios
+  - App now available in the apple app store
 * 3.6.9
   - Better Ios support (native ios version available in test flight, you can request an invitation to test it)
   - Improved colors and visibility power curve and history widget
