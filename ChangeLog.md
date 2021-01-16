@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.11
+  - Connection settings tabs now look better on small screens
+  - New icon android
+  - Simplified the downloads and the connection types by removing deprecated features (native desktop app && data server)
 * 3.6.10
   - Fix scrolling issues in widget edit mode
   - Fix scroll to top problem when clicking on a menu item

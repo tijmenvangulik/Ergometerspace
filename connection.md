@@ -12,7 +12,6 @@ show_tile: false
   - [Overview](#overview)
   - [Use Usb to connect to a PM3-5](#use-usb-to-connect-to-a-pm3-5)
   - [Use bluetooth (PM5 only)](#use-bluetooth-pm5-only)
-  - [Ergometer Data server (deprecated)](#ergometer-data-server-deprecated)
 - [Help I can not connect](#help-i-can-not-connect)
 
 # Connect to the ergometer
@@ -31,13 +30,11 @@ If you need more help, check the last chapter on this page.
 |          |                 | USB PM3-5 | PM5 Blue tooth |
 |----------|-----------------|-----------|----------------|
 | Mac os X | Web browser(*)  | yes       | yes            |
-|          | Native app      | yes       | yes            |
 | Windows  | Web browser(*)  | yes       | yes            |
-|          | Native app      | yes       | yes            |
 | Android  | Web browser(*)  | no        | yes            |
 |          | Native app      | yes       | yes            |
 | IOS      | Web browser(**) | no        | yes            |
-|          | Native app (***)| no        | yes            | 
+|          | Native app      | no        | yes            | 
 
 (*) Chromium based web browser like chrome, brave, vialdi, opera, latest edge
 (**) Use special web browser app "blue fy"  or "ble browser"
@@ -66,26 +63,9 @@ Compatible with the following platforms:
   - [Apple app store](https://apps.apple.com/us/app/ergometer-space/id1548193188)  
     (the ios version does not have usb, audio,vr or video support )
     
-* Desktop/laptop: Ergometer-space Desktop App (download from the download menu)
-  - Mac OS X [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg) (works till 10.15, Not big sur, use browser instead)
-  - Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)
+* Desktop/laptop: 
+  The desktop apps and the "Ergometer Data server" are deprecated because the browser solution works as fine for both usb and blue tooth.
   
-## Ergometer Data server (deprecated)
-
-Connect with USB to an PM3-5. This connection type is deprecated because it is much easier to connect using the desktop app.
-
-Go to the download menu and download and install the Ergometer Data server  
-Compatible with:
-* Windows with installer [download](https://ergometer-space.org/downloads/setup.exe)
-* Windows without installer [download](https://ergometer-space.org/downloads/ErgometerDataServer.zip) (Some anti virus program think that the installer is an virus. This is not correct. If this is the case you can download the zip and do the installation
-      manually. Just copy the files into an folder in the programs and make a link to it.)</li>
-   
-* Mac OS X 10.11 and below [download](https://ergometer-space.org/downloads/Install%20Ergometer%20Data%20Server.dmg) Mac OS X Ergometer Data Server <br> This version does not work any more on OS X El Capitan
-      I can only fix this problem when concept2 releases a new version.<br>
-      As alternative you can use chrome as browser and connect using bluetooth to a PM5. 
-
-The server can be used to connect multiple ergometers to one or more browsers.
-
 # Help I can not connect
 
 First check the following things:
