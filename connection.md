@@ -19,7 +19,6 @@ show_tile: false
 There are multiple ways too connect ergometer-space to a concept 2 ergometer:
 * Usb (PM3-5)
 * Bluetooth (PM-5)
-* Install the Ergometer Data server (PM3-5) (deprecated) 
 
 For the best connection experience you can download a native app in from the download menu. The native apps also have screen blanker prevention.
 

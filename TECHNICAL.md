@@ -36,7 +36,7 @@ In total there are 4 servers.
 * There is a 3d model for the animations. This will make it possible to later use real web 3d
 * NTP time synchronization
 
-# Data server
+# Data server (deprecated)
 
 * Written in C++ and build on top of boost. 
 * All code should be portable to other systems including embedded systems
