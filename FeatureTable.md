@@ -6,7 +6,7 @@ show_tile: true
 ---
 Feature comparison
 
-|          |                  | USB PM3-5 | PM5 Blue tooth | Screen blanker(***) | audio | Video |
+|          |                  | USB PM3-5 | PM5 Blue tooth | Screen blanker(***) | Audio | Video |
 |----------|------------------|-----------|----------------|---------------------|-------|-------|
 | Mac os X | Web browser(*)   | yes       | yes            | no                  | yes   | yes   |
 | Windows  | Web browser(*)   | yes       | yes            | no                  | yes   | yes   |
