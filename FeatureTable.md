@@ -15,6 +15,8 @@ Feature comparison
 | IOS      | Web browser(**)  | no        | yes            | no                  | no    | no    |
 |          | Native app       | no        | yes            | yes                 | no    | no    |
 
-(*) Chromium based web browser like chrome, brave, vialdi, opera, latest edge
-(**) Use special web browser app "blue fy"  or "ble browser"
-(***) Prevent screen blanker while rowing
+( * ) Chromium based web browser like chrome, brave, vialdi, opera, latest edge
+
+( ** ) Use special web browser app "blue fy"  or "ble browser"
+
+( *** ) Prevent screen blanker while rowing
