@@ -1,6 +1,6 @@
 ---
 layout: pageContent
-title: Feature table
+title: Feature comparison
 nav-menu: true
 show_tile: true
 ---
