@@ -1,3 +1,9 @@
+---
+layout: pageContent
+title: Feature table
+nav-menu: true
+show_tile: true
+---
 Feature comparison
 
 |          |                  | USB PM3-5 | PM5 Blue tooth | Screen blanker(***) | audio | Video |
