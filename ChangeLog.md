@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.12
+  - Fix blue tooth connection problem
+  - IOS fixes
 * 3.6.11
   - Connection settings tabs now look better on small screens
   - New icon android
