@@ -12,8 +12,7 @@ In ergometer space you can row together online. This document describes how to o
 Ergometer space is available trough:
 * [Website](https://ergometer-space.org/)  (Use a chromium based web browser like Chrome,Opera,Brave,Edge (The latest))
 * Android [download from the play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace)
-* Mac [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg)
-* Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)
+* iOS  [Apple app store](https://apps.apple.com/us/app/ergometer-space/id1548193188) 
 
 # Roles
 

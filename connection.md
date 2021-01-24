@@ -42,12 +42,10 @@ If you need more help, check the last chapter on this page.
 
 * Web: Chromium based browsers like chrome, brave, vialdi, opera latest edge.
  
-* Desktop/laptop: Download and install the app from the the download menu. It is compatible with 
-  - Mac OS X [download](https://ergometer-space.org/downloads/Ergometer-space-installer.pkg) (works till 10.15, Not big sur, use browser instead)
-  - Windows [download](https://ergometer-space.org/downloads/Ergometer-space-installer.exe)
 * Mobile: Download the mobile android app from the play store
   - [Android play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace&gl=NL)
     For android you need an OTG USB cable to connect your phone to the ergometer.
+  - iOS not available. Only PM5
 
 ## Use bluetooth (PM5 only)
 
