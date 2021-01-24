@@ -6,14 +6,14 @@ show_tile: true
 ---
 Feature comparison
 
-|          |                  | USB PM3-5 | PM5 Blue tooth | Screen blanker(***) | Audio | Video | offline |
-|----------|------------------|-----------|----------------|---------------------|-------|-------|---------|
-| Mac os X | Web browser(*)   | yes       | yes            | no                  | yes   | yes   | no **** |
-| Windows  | Web browser(*)   | yes       | yes            | no                  | yes   | yes   | no **** | 
-| Android  | Web browser(*)   | no        | yes            | no                  | yes   | yes   | no **** |
-|          | Native app       | yes       | yes            | yes                 | yes   | yes   | yes     |
-| IOS      | Web browser(**)  | no        | yes            | no                  | no    | no    | no **** |
-|          | Native app       | no        | yes            | yes                 | no    | no    | yes     |
+|          |                 | USB PM3-5 | PM5 Blue tooth | Screen blanker(***) | Audio   | Video   | Offline      |
+|----------|-----------------|-----------|----------------|---------------------|---------|---------|--------------|
+| Mac os X | Web browser(*)  | &#9745;   | &#9745;        | &#9744;             | &#9745; | &#9745; | &#9744; **** |
+| Windows  | Web browser(*)  | &#9745;   | &#9745;        | &#9744;             | &#9745; | &#9745; | &#9744; **** |
+| Android  | Web browser(*)  | &#9744;   | &#9745;        | &#9744;             | &#9745; | &#9745; | &#9744; **** |
+|          | Native app      | &#9745;   | &#9745;        | &#9745;             | &#9745; | &#9745; | &#9745;      |
+| IOS      | Web browser(**) | &#9744;   | &#9745;        | &#9744;             | &#9744; | &#9744; | &#9744; **** |
+|          | Native app      | &#9744;   | &#9745;        | &#9745;             | &#9744; | &#9744; | &#9745;      |
 
 ( * ) Chromium based web browser like chrome, brave, vialdi, opera, latest edge
 

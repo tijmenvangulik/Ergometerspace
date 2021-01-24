@@ -28,12 +28,12 @@ If you need more help, check the last chapter on this page.
 
 |          |                 | USB PM3-5 | PM5 Blue tooth |
 |----------|-----------------|-----------|----------------|
-| Mac os X | Web browser(*)  | yes       | yes            |
-| Windows  | Web browser(*)  | yes       | yes            |
-| Android  | Web browser(*)  | no        | yes            |
-|          | Native app      | yes       | yes            |
-| IOS      | Web browser(**) | no        | yes            |
-|          | Native app      | no        | yes            | 
+| Mac os X | Web browser(*)  | &#9745;   | &#9745;        |
+| Windows  | Web browser(*)  | &#9745;   | &#9745;        |
+| Android  | Web browser(*)  | &#9744;   | &#9745;        |
+|          | Native app      | &#9745;   | &#9745;        |
+| IOS      | Web browser(**) | &#9744;   | &#9745;        |
+|          | Native app      | &#9744;   | &#9745;        |
 
 (*) Chromium based web browser like chrome, brave, vialdi, opera, latest edge
 (**) Use special web browser app "blue fy"  or "ble browser"
