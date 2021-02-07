@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.15 (web only update)
+  - Ergometer space can now be used offline. In chromium bases browsers you can install it as an app.
 * 3.6.14
   - Fix usb communication problem for newer PM5 devices (only fails with some hardware combinations)
 * 3.6.12
