@@ -4,8 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
-* 3.6.15 (web only update)
-  - Ergometer space can now be used offline. In chromium bases browsers you can install it as an app.
+* 3.6.16 (web only update)
+  - Ergometer space can now be used offline in chromium bases browsers You can also install the website as an app. [Information on how to install](https://medium.com/progressivewebapps/how-to-install-a-pwa-to-your-device-68a8d37fadc1)
 * 3.6.14
   - Fix usb communication problem for newer PM5 devices (only fails with some hardware combinations)
 * 3.6.12
