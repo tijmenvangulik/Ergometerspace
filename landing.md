@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-<p>Ergometer-space is an ergometer rowing app for concept2 PM3-5. The app support blue tooth for PM5 and USB for PM3-5.
+<p>Ergometer-space is an ergometer rowing app for concept2 PM3-5. The app support blue tooth for PM5 and USB for PM3-5 and can be used online and offline.
 </p>
 	</div>
 </section>
