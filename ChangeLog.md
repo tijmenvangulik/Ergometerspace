@@ -4,7 +4,7 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
-* 3.6.18 (web only update)
+* 3.6.20 (web only update)
   - Update typescript
   - Fix plugin load bug , showing old typescript
   - Fix highcharts demo plugin example
