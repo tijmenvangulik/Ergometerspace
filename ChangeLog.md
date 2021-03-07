@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.6.21
+  - Allow hide/show toolbar
+  - Improved mobile tooltips
+  - Improved loading animation and added micro animation for the logo
 * 3.6.20 (web only update)
   - Update typescript
   - Fix plugin load bug , showing old typescript
