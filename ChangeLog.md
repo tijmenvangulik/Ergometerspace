@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.0
+  - New font and icons
 * 3.6.23
   - Improved switch to widget edit mode
 * 3.6.22
