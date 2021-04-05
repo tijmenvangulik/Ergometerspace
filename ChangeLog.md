@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.2
+  - Small user interface optimizations.
 * 3.7.1
   - Improved visibility and usability of widget buttons in edit mode
 * 3.7.0
