@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.3 (web only)
+  - Small user interface optimization.
 * 3.7.2
   - Small user interface optimizations.
 * 3.7.1
