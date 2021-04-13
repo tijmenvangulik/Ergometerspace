@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.4
+  - Fixes for 3d widget icons
+  - VR now works in the iOS app
 * 3.7.3 (web only)
   - Small user interface optimization.
 * 3.7.2
