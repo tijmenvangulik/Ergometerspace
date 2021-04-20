@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.6
+  - More info on for how to use Vr mode when starting vr.
+* 3.7.5
+  - VR now works in iOS
 * 3.7.4
   - Fixes for 3d widget icons
   - VR now works in the iOS app
