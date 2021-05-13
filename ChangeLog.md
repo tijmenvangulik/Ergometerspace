@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.8
+  - Web XR support for vr devices
+  - Fix floor of 3d boat which started flashing after some time
 * 3.7.6
   - More info on for how to use Vr mode when starting vr.
 * 3.7.5
