@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.9
+  - Added fog effect
+  - Performance optimizations in 3d widget
 * 3.7.8
   - Web XR support for vr devices
   - Fix floor of 3d boat which started flashing after some time
