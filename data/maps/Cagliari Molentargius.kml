@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mappa senza titolo</name>
+    <description/>
+    <Style id="line-C2185B-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-C2185B-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-C2185B-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Livello senza titolo</name>
+      <Placemark>
+        <name>Cagliari Molentargius 7.7 km
+</name>
+        <styleUrl>#line-C2185B-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            9.1281584,39.2002282,0
+            9.1280082,39.2004693,0
+            9.1285983,39.2006356,0
+            9.1299072,39.2007769,0
+            9.1315165,39.2009848,0
+            9.1347352,39.2012758,0
+            9.1382113,39.2015751,0
+            9.1386726,39.2017331,0
+            9.1413227,39.2035621,0
+            9.1436615,39.2051584,0
+            9.1437366,39.205308,0
+            9.1437366,39.2055741,0
+            9.1436937,39.2061976,0
+            9.1436401,39.2067712,0
+            9.1435221,39.208384,0
+            9.1433504,39.2091488,0
+            9.1430822,39.2099053,0
+            9.1428462,39.2105953,0
+            9.1427603,39.2112271,0
+            9.1429964,39.2120916,0
+            9.1435221,39.2127733,0
+            9.1441336,39.2134133,0
+            9.1443375,39.2137957,0
+            9.1443589,39.2143693,0
+            9.144198,39.21476,0
+            9.1434684,39.2165305,0
+            9.1431466,39.216863,0
+            9.1420951,39.2176693,0
+            9.141505,39.2182013,0
+            9.1409472,39.2189743,0
+            9.1404644,39.2199385,0
+            9.1401425,39.2208029,0
+            9.1398099,39.2216673,0
+            9.139606,39.2227894,0
+            9.13937,39.224086,0
+            9.1390589,39.2256984,0
+            9.1389623,39.2269534,0
+            9.1388658,39.2283496,0
+            9.1388228,39.2293718,0
+            9.1387907,39.229912,0
+            9.1389623,39.230793,0
+            9.1392735,39.231757,0
+            9.1397348,39.232588,0
+            9.1403785,39.2333526,0
+            9.1422024,39.2350063,0
+            9.1443053,39.2365021,0
+            9.1471484,39.2383718,0
+            9.1484037,39.2391612,0
+            9.1485861,39.2396183,0
+            9.1485432,39.2399673,0
+            9.1476634,39.2409976,0
+            9.1437045,39.245011,0
+            9.1414943,39.2470549,0
+            9.1354325,39.2519818,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Livello senza titolo</name>
+    </Folder>
+  </Document>
+</kml>
