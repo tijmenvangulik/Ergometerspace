@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.11
+  - Start vr 3d widget rotating in race mode
+  - Show essential values in vr mode dashboard
+  - Fix crash when importing workout info
+  - Android: change default export dir in the options (this feature will be made more user friendly in later versions)
 * 3.7.10
   - Added sound effects to 3d/vr widget
   - Fix problem of shark game which was not loaded corrected after an refresh 
