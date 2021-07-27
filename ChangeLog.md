@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.7.12
+  - pause vr widget on first start
 * 3.7.11
   - Start vr 3d widget rotating in race mode
   - Show essential values in vr mode dashboard
