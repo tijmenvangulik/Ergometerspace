@@ -4,6 +4,12 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.0
+  - Vr/3d widget: Full screen mode
+  - Vr/3d widget: Names above rowers in vr mode when more than 2 rowers
+  - Vr/3d widget: finish line
+  - Improved notification boxes layout
+  - Vr/3d widget: Fix loosing extra rowers when switching xr mode
 * 3.7.12
   - pause vr widget on first start
 * 3.7.11
