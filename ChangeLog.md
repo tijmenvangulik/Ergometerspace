@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.2
+  - Warning in dialog when no connection options
 * 3.8.1
   - Small bug fixes and text changes
   - Added privacy link to about page and improved privacy info.
