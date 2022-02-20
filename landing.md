@@ -78,7 +78,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Free and full privacy</h3>
 				</header>
-				<p>Ad free and your data stays private. (this app is made for fun, not for making money). Your data is private stays in your browser. Only data which you share is send to other users but not stored on a sever. There </p>
+				<p>Ad free and your data stays private. (This app is made for fun, not for making money). Your data stays as much as possible inside your browser. Only data which you share is send to other users. See the privacy page for more info.</p>
 			</div>
 		</div>
 	</section>

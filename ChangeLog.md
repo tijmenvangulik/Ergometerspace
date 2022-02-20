@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.1
+  - Small bug fixes and text changes
+  - Added privacy link to about page and improved privacy info.
 * 3.8.0
   - Vr/3d widget: Full screen mode
   - Vr/3d widget: Names above rowers in vr mode when more than 2 rowers
