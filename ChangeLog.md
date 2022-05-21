@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.4
+  - Added tenth of second to split time
+  - Fix wrong minutes in row together widget split time.
+* 3.8.3
+  - In iOS web browser the app does not start
 * 3.8.2
   - Warning in dialog when no connection options
 * 3.8.1
