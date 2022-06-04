@@ -37,7 +37,6 @@ nav-menu: true
   				  <li>Install it as native app on android and iOS from the store. 
 				  <li>Connect to the ergometer using USB or bluetooth.
 				</ul>
-
 			</div>
 		</div>
 	</section>
