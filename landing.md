@@ -31,7 +31,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Platform</h3>
 				</header>
-				<p>It works on chromium based browsers (Chrome, Edge, Brave etc) and as native app on android and iOS. Connect to the ergometer using USB or bluetooth.</p>
+				<p>It works on chromium based browsers (Chrome, Edge, Brave etc)You can install the web app as offline app straight from the browser (even on Android). It is also possible to install it as native app on android and iOS from the store.  Connect to the ergometer using USB or bluetooth.</p>
+
 			</div>
 		</div>
 	</section>
