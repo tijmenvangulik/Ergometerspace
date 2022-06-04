@@ -31,7 +31,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Platform</h3>
 				</header>
-				<p>It works in chromium based browsers and as native app on android and iOS. Connect to the ergometer using USB or bluetooth.</p>
+				<p>It works on chromium based browsers (Chrome, Edge, Brave etc) and as native app on android and iOS. Connect to the ergometer using USB or bluetooth.</p>
 			</div>
 		</div>
 	</section>
