@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.5
+  - Fix warning which is shown when blue tooth is available
 * 3.8.4
   - Added tenth of second to split time
   - Fix wrong minutes in row together widget split time.
