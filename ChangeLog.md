@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.8 (web only)
+  - Dashboard: Allow more columns for more exact placing of widgets
 * 3.8.7 (web only)
   - Minimum heart rate to calculate the heart rate percentage using the karvonen. (Read de description for usage.)
 * 3.8.6 (web only)
