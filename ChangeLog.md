@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.9 (web only)
+  - Map widget: load from gpx file
+  - Fix url check problem in login link creation
 * 3.8.8 (web only)
   - Dashboard: Allow more columns for more exact placing of widgets
 * 3.8.7 (web only)
