@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.10 (web only)
+  - Use wakeLock to prevent screen lock or dimming
 * 3.8.9 (web only)
   - Map widget: load from gpx file
   - Fix url check problem in login link creation
