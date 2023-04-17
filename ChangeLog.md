@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.8.14 (web only)
+  - Vr widget: 4 more AI generated worlds
 * 3.8.10 (web only)
   - Use wakeLock to prevent screen lock or dimming
 * 3.8.9 (web only)
