@@ -4,8 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
-* 3.8.16 (web only)
+* 3.8.17 (web only)
   - Vr widget: Option to add rower reflections (more realistic but you need a good gpu for this)
+  - Vr widget City is now the default world
 * 3.8.14 (web only)
   - Vr widget: 4 more AI generated worlds
 * 3.8.10 (web only)
