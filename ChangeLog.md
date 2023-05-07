@@ -4,7 +4,7 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
-* 3.8.15 (web only)
+* 3.8.16 (web only)
   - Vr widget: Option to add rower reflections (more realistic but you need a good gpu for this)
 * 3.8.14 (web only)
   - Vr widget: 4 more AI generated worlds
