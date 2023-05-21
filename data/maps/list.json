@@ -48,5 +48,10 @@
   "distance":7649,
   "url":"https://tijmenvangulik.github.io/Ergometerspace/data/maps/Cagliari%20Molentargius.kml",
   "author":"Antonio"
+},
+{ "name":"Elfsteden roeimarathon",
+  "distance":207800,
+  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/maps/Elfstedenroeimarathon.kml",
+  "author":"GPX import van Wetterwille website"
 }
 ]
