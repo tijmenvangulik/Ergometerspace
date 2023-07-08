@@ -5,7 +5,7 @@ nav-menu: true
 show_tile: true
 ---
 * 3.9.2 (web only)
-  - Allow upload to concept2 log (select a work out log and click on send to concept2) (only upload time,distance, timestamp and weight class, no verification codes yet)
+  - Allow upload to concept2 log (select a work out log and click on send to concept2) (only upload time, distance, timestamp and weight class, no verification codes yet. configure the weight class in the settings) 
 * 3.8.17 (web only)
   - Vr widget: Option to add rower reflections (more realistic but you need a good gpu for this)
   - Vr widget City is now the default world
