@@ -4,7 +4,7 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
-* 3.10.1 (web only)
+* 3.10.2 (web only)
   - Complete overhaul of the workout logs.
      * Multi select in the list
      * More relevant fields in the list
