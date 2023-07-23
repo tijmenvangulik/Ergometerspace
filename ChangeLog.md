@@ -4,9 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
-* 3.10.2 (web only)
+* 3.10.3 (web only)
   - Complete overhaul of the workout logs.
-     * Multi select in the list
+     * Multi select in the list (and allow operations on multiple work outs)
      * More relevant fields in the list
      * New details dialog which shows more values and charts
 * 3.9.2 (web only)
