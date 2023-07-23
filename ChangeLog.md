@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.10.1 (web only)
+  - Complete overhaul of the workout logs.
+     * Multi select in the list
+     * More relevant fields in the list
+     * New details dialog which shows more values and charts
 * 3.9.2 (web only)
   - Allow upload to concept2 log (select a work out log and click on send to concept2) (only upload time, distance, timestamp and weight class, no verification codes yet. configure the weight class in the settings) 
 * 3.8.17 (web only)
