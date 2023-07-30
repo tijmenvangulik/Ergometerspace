@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.10.7 (web only)
+  * Workokout log : added season filter
+  * Options : added config for the start month of a season
 * 3.10.6 (web only)
   * Fix select workout problem
 * 3.10.5 (web only)
