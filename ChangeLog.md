@@ -4,8 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.10.8 (web only)
+  * Workout log fix selection bug in workout log
 * 3.10.7 (web only)
-  * Workokout log : added season filter
+  * Workout log : added season filter
   * Options : added config for the start month of a season
 * 3.10.6 (web only)
   * Fix select workout problem
