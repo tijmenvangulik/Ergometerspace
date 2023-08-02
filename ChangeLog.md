@@ -5,7 +5,7 @@ nav-menu: true
 show_tile: true
 ---
 * 3.10.8 (web only)
-  * Workout log fix selection bug in workout log
+  * Workout log fix selection bug in workout log (select all + delete could delete more than visible in the filter)
 * 3.10.7 (web only)
   * Workout log : added season filter
   * Options : added config for the start month of a season
