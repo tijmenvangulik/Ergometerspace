@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.11.1 (web only)
+  * Fix peer to peer connection problem
+  * fix white line in dialog in mobile mode
+  * fix training update error
 * 3.11.0 (web only)
   * Work out log statistics
 * 3.10.8 (web only)
