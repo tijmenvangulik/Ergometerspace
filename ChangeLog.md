@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.11.2 (web and android)
+  * fix app bar for small screen size
+  * Disable concept2 upload for android (you will need to use the web app for this)
+  * Note: Usb might not work on all android devices, still working on this
 * 3.11.1 (web only)
   * Fix peer to peer connection problem
   * fix white line in dialog in mobile mode
