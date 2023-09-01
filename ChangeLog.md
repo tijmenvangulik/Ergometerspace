@@ -10,7 +10,7 @@ show_tile: true
   * Disable concept2 upload for android (you will need to use the web app for this)
   * Note: Usb might not work on all android devices, still working on this
 * 3.11.1 (web only)
-  * Fix peer to peer connection problem
+  * Fix peer to peer connection problem (online rowing was broken due to changes in the browser)
   * fix white line in dialog in mobile mode
   * fix training update error
 * 3.11.0 (web only)
