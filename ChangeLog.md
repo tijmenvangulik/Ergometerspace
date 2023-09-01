@@ -4,7 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
-* 3.11.2 (web and android)
+* 3.11.2 (web and android) 
+  * for android this release upgrades from version 3.8.2 to 3.11.2
   * fix app bar for small screen size
   * Disable concept2 upload for android (you will need to use the web app for this)
   * Note: Usb might not work on all android devices, still working on this
