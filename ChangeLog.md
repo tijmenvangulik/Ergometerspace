@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.11.3 IOS release with all the new features and bug fixes (some parts did not work any more due to apple changes)
+  * Parts which do not work or work partly
+    - Recording video and audio
+    - When you connect to other rowers in a room you can get a waring. In this case only audio will not work and the connection may be slightly slower but other that that you can you can row together. This mainly due to apple limitation where I have to make a work around for. (The only way you do not get the warning if the browser/android user connects first and apple connects later)
 * 3.11.2 (web and android) 
   * for android this release upgrades from version 3.8.2 to 3.11.2
   * fix app bar for small screen size
