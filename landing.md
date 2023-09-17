@@ -147,7 +147,7 @@ nav-menu: true
 <li>View detailied history of your race</li>
 <li>The details of a race can be shown in an history widget</li>
 <li>Even power curves are stored.</li>
-<li>Export training data inluding power curves to both json and csv. Imports are json only. With csv export you can view your data in excel.</li> 
+<li>Export training data including power curves to both json and csv. Imports are json only. With csv export you can view your data in excel.</li> 
 </ul>	
 			</div>
 		</div>
@@ -246,7 +246,25 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	
+	<section>
+		<div href="generic.html" class="image">
+			<img src="assets/images/workoutlog.jpg" alt="" data-position="top center" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Workout log and statistics</h3>
+				</header>
+<ul>
+<li>Get all the details of your workout in charts and values</li>
+<li>Filter workouts using customizable seasons</li>
+<li>View all your workout statistics in different ways using with multiple filter and grouping options</li>
+<li>Upload your data to concept2</li>
+<li>Export workout data including power curves to both json and csv. Imports are json only. With csv export you can view your data in excel.</li> 
+</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 </div>

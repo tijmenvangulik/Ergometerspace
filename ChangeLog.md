@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.11.5
+  - Improved save dialog for android
+* 3.11.4
+  - Upload to concept2 for android and iOS
 * 3.11.3 IOS release with all the new features and bug fixes (some parts did not work any more due to apple changes)
   * Parts which do not work or work partly
     - Recording video and audio
