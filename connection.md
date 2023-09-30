@@ -35,7 +35,7 @@ If you need more help, check the last chapter on this page.
 | IOS      | Web browser(**) | &#9744;   | &#9745;        |
 |          | Native app      | &#9744;   | &#9745;        |
 
-(*) Chromium based web browser like chrome, brave, vialdi, opera, latest edge
+(*) Chromium based web browser like chrome, edge, brave, vialdi, opera (some browser blue tooth must first be enabled using a flag, in chrome and edge it works directly)
 (**) Use special web browser app "blue fy"  or "ble browser"
 
 ## Use Usb to connect to a PM3-5
