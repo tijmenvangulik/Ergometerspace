@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 3.11.6
+  - Fix connection problems with the app running on a iOS device. (the fix prevents you from getting the warning and it will make a direct peer2peer connection between the devices)
 * 3.11.5
   - Improved save dialog for android
 * 3.11.4
