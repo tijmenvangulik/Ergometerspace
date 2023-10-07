@@ -10,7 +10,7 @@ show_tile: false
 In ergometer space you can row together online. This document describes how to organize a team rowing and how rowers can join teams and start racing.  
 
 Ergometer space is available trough:
-* [Website](https://ergometer-space.org/)  (Use a chromium based web browser like Chrome,Opera,Brave,Edge (The latest))
+* [Website](https://ergometer-space.org/)  (Use a chromium based web browser like Chrome or Edge)
 * Android [download from the play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace)
 * iOS  [Apple app store](https://apps.apple.com/us/app/ergometer-space/id1548193188) 
 
@@ -31,7 +31,7 @@ Team boats will go at the average speed of the rowers. This also means that no m
 
 The race organizer will send al link (url) to every one who is going to attend. In your mail / app you have to give some tell the users that to do with the link. Some thing like this:
 
-    Please open the link in a chromium based browser (for example chrome/edge/brave/opera) or a native app ergometer-space installed on the phone/computer. 
+    Please open the link in a chromium based browser (for example chrome or edge) or a native app ergometer-space installed on the phone/computer. 
     When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
 
 ## creating links
@@ -76,7 +76,7 @@ As organizer you should not invite too many users in the observer role since thi
 
 # Observers
 
-Please open the link which is given to you in a chromium based browser (for example chrome/edge/brave/opera) or a native app ergometer-space installed on the phone/computer. 
+Please open the link which is given to you in a chromium based browser (for example chrome or edge) or a native app ergometer-space installed on the phone/computer. 
 When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
 
 Now you can watch the race or chat with other rowers.
@@ -87,7 +87,7 @@ Enjoy watching the race.
 
 # Solo rowers
 
-Please open the link which is given to you in a chromium based browser (for example chrome/edge/brave/opera) or a native app ergometer-space installed on the phone/computer. 
+Please open the link which is given to you in a chromium based browser (for example chrome or edge) or a native app ergometer-space installed on the phone/computer. 
 When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
 
 After the login connect the ergometer and set your ergometer to the same distance.
