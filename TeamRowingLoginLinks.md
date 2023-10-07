@@ -66,7 +66,8 @@ See the chapter [Organize your dashboard](#organize-your-dashboard) to see how t
 
 Use the race widget to see the progress of the race
 
-![](Images/PastedGraphic-5.jpg)
+
+![Race with multipe rowers](<Images/Pasted Graphic 5.png>)
 
 Use the “values of rowers” widget to check on all the detail data  of the rowers during the race. 
 
@@ -133,7 +134,7 @@ Widgets in detail:
 
 In this widget you can see other teams and the progress of race. The animated rower is the actual position of the rower. In gray in the back ground you see the projected position as if you and the other rower had started at exactly the same time. This makes it possible to race against some one which has started a bit earlier or later.
 
-![](Images/PastedGraphic-5.jpg)
+![Race with multipe rowers](<Images/Pasted Graphic 5.png>)
 
 ## Chat widget
 
