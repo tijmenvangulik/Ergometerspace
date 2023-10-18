@@ -4,6 +4,14 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.0.0
+  - Mobile horizontal allow multiple columns
+  - Multi Dashboards 
+    - Choose from template
+    - Import
+    - Export
+    - Save dashboard as template
+    - Nr of columns moved to dashboard settings
 * 3.11.7
   - Fix high scores not always visible in the race widget
   - Pwa could not be installed and did not update
