@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.1.0
+  - Guard against converting the dashboard to a single column when editing in a dashboard while phone is hold vertical
 * 4.0.0
   - Mobile horizontal allow multiple columns
   - Multi Dashboards 
