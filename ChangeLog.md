@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.2.1
+   - Do not change column count in horizontal mode when pressing edit button
 * 4.1.0
   - Guard against converting the dashboard to a single column when editing in a dashboard while phone is hold vertical
 * 4.0.0
