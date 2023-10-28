@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.3.0
+   - Multiple dashboards (select a dashboard from the navigation bar)
+   - Option to auto select dashboard on login 
 * 4.2.1
    - Do not change column count in horizontal mode when pressing edit button
 * 4.1.0
