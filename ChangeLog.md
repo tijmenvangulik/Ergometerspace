@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.3.1
+   - Hot fix refresh dashboard switching dashboards when phone is in rotated vertical
 * 4.3.0
    - Multiple dashboards (select a dashboard from the navigation bar)
    - Option to auto select dashboard on login 
