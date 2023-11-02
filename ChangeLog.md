@@ -4,6 +4,13 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+
+* 4.4.0
+   - Option to hide connection panel for observer
+   - Improved visibility of some icons and texts
+   - Hide connection panel when replaying
+   - Check "auto select dashboard" on  online rowing roles other than solo rower
+   - Fix issue dialogs not re-opening after dashboard switch
 * 4.3.1
    - Hot fix refresh dashboard switching dashboards when phone is in rotated vertical
 * 4.3.0
