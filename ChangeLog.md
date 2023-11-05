@@ -4,7 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
-
+* 4.5.0
+   - Workout charts have a zoom icon from where you can see a more detailed chart with a compare option
 * 4.4.0
    - Option to hide connection panel for observer
    - Improved visibility of some icons and texts
