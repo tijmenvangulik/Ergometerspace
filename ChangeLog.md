@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.6.0
+   - Log just row in workout log when switched on in the setting
+   - Improved interval workout log for blue tooth.
+   - Added missing USB setting for android.
 * 4.5.0
    - Workout charts have a zoom icon from where you can see a more detailed chart with a compare option
 * 4.4.0
