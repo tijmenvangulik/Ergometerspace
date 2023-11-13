@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.7.1
+   - Fix for ble connection problem for newer android versions
 * 4.7.0
    - Show power curves in workout log
    - Fix USB connection problem for newer android versions
