@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.7.0
+   - Show power curves in workout log
+   - Fix USB connection problem for newer android versions
 * 4.6.0
    - Log just row in workout log when switched on in the setting
    - Improved interval workout log for blue tooth.
