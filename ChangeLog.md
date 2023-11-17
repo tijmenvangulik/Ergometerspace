@@ -4,6 +4,12 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.8.0
+   - When heart rate zone widget is used then add the zones to the workout
+   - Export zones to csv and json file
+   - Fix import dialog not showing
+   - Fix remove video not refreshing
+   - Fix problem with ios export
 * 4.7.2
    - Improved blue tooth permissions for for newer android versions
 * 4.7.1
