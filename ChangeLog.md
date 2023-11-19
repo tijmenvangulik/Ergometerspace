@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.8.1
+   - Replay with heart rate and correct heart rate zone in the log
+   - Icons for menu items
+   - More accurate calculation work time for power curve chart.
+   - Hide blue tooth for limited hardware when not relevant
 * 4.8.0
    - When heart rate zone widget is used then add the zones to the workout
    - Export zones to csv and json file
