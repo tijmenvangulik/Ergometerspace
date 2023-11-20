@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.8.2
+  - fix link icon in menu
+  - Recalculate seasons when season start month is changed
+  - Improved connection text for iOS
 * 4.8.1
    - Replay with heart rate and correct heart rate zone in the log
    - Icons for menu items
