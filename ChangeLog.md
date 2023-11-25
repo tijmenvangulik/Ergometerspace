@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.9.0
+   - Easier resize bottom widgets
+   - Heart rate zones are now collected even if you do not have the heart rate zone widget visible. You can view the heart rate zones in the workout log. 
+   - The heart rate zone percentage configuration is moved to the settings
+   - Message with an option to show the workout log directly after the workout. This can be switched of in the settings
 * 4.8.2
   - fix link icon in menu
   - Recalculate seasons when season start month is changed
