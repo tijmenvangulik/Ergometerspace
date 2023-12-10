@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.10.0
+   - Export to Strava (strava time is only in seconds without mili seconds, this means that the speed displayed by strava is not accurate)
+   - Directly show export link after export to Concept2 or Strava
 * 4.9.0
    - Easier resize bottom widgets
    - Heart rate zones are now collected even if you do not have the heart rate zone widget visible. You can view the heart rate zones in the workout log. 
