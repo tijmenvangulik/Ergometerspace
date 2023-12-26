@@ -8,7 +8,7 @@ show_tile: true
   - Show dummy gray charts and values when there is no value
   - Make more space for the iphone notch in horizontal mode
   - Improved visibility show toolbar icon
-  - fixed wrong recovery ration in demo 
+  - fixed wrong recovery ratio in demo 
 * 4.10.1
    -  X-mas edition with neon menu icons 
 * 4.10.0
