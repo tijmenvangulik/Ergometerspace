@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.11.0
+  - Show dummy gray charts and values when there is no value
+  - Make more space for the iphone notch in horizontal mode
+  - Improved visibility show toolbar icon
+  - fixed wrong recovery ration in demo 
 * 4.10.1
    -  X-mas edition with neon menu icons 
 * 4.10.0
