@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 ---
+* 4.11.1
+  - Improved performance app loading
+  - Removed  y axis chart title chart when none 
 * 4.11.0
   - Show dummy gray charts and values when there is no value
   - Make more space for the iphone notch in horizontal mode
