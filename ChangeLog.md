@@ -3,7 +3,14 @@ layout: pageContent
 title: Change log
 nav-menu: true
 show_tile: true
----
+--- 
+* 4.12.0
+  - Fix wrong value heart rate average
+  - Improved power and calories statistics
+  - More fields in csv export
+  - stroke count value widget
+  - Statistics : calories and drag factor
+  - Do not crash when storage is full
 * 4.11.1
   - Improved performance app loading
   - Removed  y axis chart title chart when none 
