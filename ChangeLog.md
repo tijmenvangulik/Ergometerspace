@@ -4,6 +4,13 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 4.12.3
+  - Allow access more web storage
+* 4.12.2
+  - Fix power chart
+* 4.12.1
+  - Bug fix initial load vr widget (web only)
+* 4.12.1
 * 4.12.0
   - Fix wrong value heart rate average
   - Improved power and calories statistics
