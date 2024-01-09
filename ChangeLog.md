@@ -4,6 +4,12 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 4.14.0
+  - Use new storage for web so local storage limit of 5mb is not a problem any more
+  - Android and ios use native storage without memory limit
+  - Fix bug that the settings of the settings dialog where not restored with a backup restore action
+  - Bug fixes usb support android
+  - Changed android bluetooth permissions android play store
 * 4.12.3
   - Allow access more web storage
 * 4.12.2
