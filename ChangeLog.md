@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 4.14.1
+  - Small fix to prevent safari crash
 * 4.14.0
   - Use new storage for web so local storage limit of 5mb is not a problem any more
   - Android and ios use native storage without memory limit
