@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 5.0.0
+   - Offset in map widget so you can start where you left the previous time
+   - Layout improvements
+   - Allow remove stroke data or power curves
+   - Fix backup restore compatibility problem
 * 4.14.1
   - Small fix to prevent safari crash
 * 4.14.0
