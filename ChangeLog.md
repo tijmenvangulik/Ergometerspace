@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 5.1.0
+   - You can now open 3 workout history charts at the same time with different colors 
+   - Small bug fix backup and restore for mobile devices
 * 5.0.0
    - Offset in map widget so you can start where you left the previous time
    - Layout improvements
