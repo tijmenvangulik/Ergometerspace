@@ -10,7 +10,7 @@ show_tile: true
   - Show more smooth power curves in the workout log
   - Analytics template dashboard
   - Web: show warning when storage is 80% full
-  - Allow adding powercurves to the workout log in the settings
+  - Allow adding power curves to the workout log in the settings
   - Show relative distance while rowing in race widget and show the best with a crown
 * 5.0.1
    - You can now open 3 workout history charts at the same time with different colors 
