@@ -4,6 +4,9 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 5.2.0
+  - For observer show relative relative distance to the rower which is best
+  - Store history widget settings in the dashboard so you can design  dashboards with different history widget layouts
 * 5.1.0
   - show power curve advice in workout log
   - improved advice text
