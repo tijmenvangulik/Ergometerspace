@@ -4,6 +4,11 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 5.2.1
+  - Race widget: Improved font scaling when rows are scaled down
+  - Just row logging: fixed some times double logging or no logging
+  - Fix blue tooth recovery percentage value
+  - Fix heart rate glitch when maximum heart rate is increased
 * 5.2.0
   - For observer show relative relative distance to the rower which is best
   - Store history widget settings in the dashboard so you can design  dashboards with different history widget layouts
