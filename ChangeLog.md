@@ -7,7 +7,7 @@ show_tile: true
 * 5.3.0
   - Added stroke length value for all widgets and charts workout log exports
   - Statistics chart bug fixes
-  - Fix notification widget bug fixes
+  - Notification widget bug fixes
 * 5.2.1
   - Race widget: Improved font scaling when rows are scaled down
   - Just row logging: fixed some times double logging or no logging
