@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 5.4.0
+  - Average power curve in workout log
 * 5.3.0
   - Added stroke length value for all widgets and charts workout log exports
   - Statistics chart bug fixes
