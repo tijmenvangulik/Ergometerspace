@@ -28,5 +28,8 @@
 },
 { "name":"Blue tooth patch experiment",
   "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/patchBlueTooth.json"
+},
+{ "name":"Example custom export",
+  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/Examples/CustomExportDemo.json"
 }
 ]

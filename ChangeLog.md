@@ -4,6 +4,10 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 5.4.1
+  - Improved average power curve
+  - Button to show average power curve in widgets
+  - Allow custom export plugins (including an example)
 * 5.4.0
   - Average power curve in workout log
 * 5.3.0
