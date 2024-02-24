@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 5.5.0
+   - Garmin tcx export including strokes and map points
 * 5.4.1
   - Improved average power curve
   - Button to show average power curve in widgets
