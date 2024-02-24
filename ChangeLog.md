@@ -5,7 +5,7 @@ nav-menu: true
 show_tile: true
 --- 
 * 5.5.0
-   - Garmin tcx export including strokes and map points
+   - Garmin tcx export including strokes and map points (can be used to upload a detailed workout log to Strava and garmin)
 * 5.4.1
   - Improved average power curve
   - Button to show average power curve in widgets

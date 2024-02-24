@@ -259,8 +259,9 @@ nav-menu: true
 <li>Get all the details of your workout in charts and values</li>
 <li>Filter workouts using customizable seasons</li>
 <li>View all your workout statistics in different ways using with multiple filter and grouping options</li>
-<li>Upload your data to concept2</li>
-<li>Export workout data including power curves to both json and csv. Imports are json only. With csv export you can view your data in excel.</li> 
+<li>Upload your data to concept2 and Strava</li>
+<li>Export workout data including power curves to both json and csv. Imports are json only. With csv export you can view your data in excel.</li>
+<li>Export workout with stroke data and map data to a Garming tcx file. This file can be imported into Strava and Garmin connect to see more details.</li>
 </ul>
 			</div>
 		</div>
