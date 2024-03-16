@@ -1,13 +1,12 @@
 ---
 layout: pageContent
-title: Documentation topics
+title: Exports
 nav-menu: true
 show_tile: true
 ---
 
-# Exports
 
-## Export fron details
+## Export from details
 
 You can export a log from the workout log details dialog in the following formats:
 
