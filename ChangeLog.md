@@ -1,7 +1,7 @@
 ---
 layout: pageContent
 title: Change log
-nav-menu: false
+nav-menu: true
 show_tile: true
 --- 
 * 5.5.1

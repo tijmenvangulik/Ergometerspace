@@ -1,7 +1,7 @@
 ---
 layout: pageContent
 title: Exports
-nav-menu: true
+nav-menu: false
 show_tile: true
 ---
 
