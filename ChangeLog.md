@@ -1,9 +1,11 @@
 ---
 layout: pageContent
 title: Change log
-nav-menu: true
+nav-menu: false
 show_tile: true
 --- 
+* 5.5.1
+  - Added documentation on the exports
 * 5.5.0
    - Garmin tcx export including strokes and map points (can be used to upload a detailed workout log to Strava and garmin)
 * 5.4.1
