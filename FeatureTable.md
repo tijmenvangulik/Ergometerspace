@@ -3,6 +3,7 @@ layout: pageContent
 title: Feature comparison
 nav-menu: true
 show_tile: true
+image: assets/images/RowMap.jpg
 ---
 Feature comparison
 

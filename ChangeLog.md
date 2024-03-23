@@ -3,6 +3,7 @@ layout: pageContent
 title: Change log
 nav-menu: true
 show_tile: true
+image: assets/images/PowerCurve.jpg
 --- 
 * 5.5.2
   - Some external links did not open correctly
