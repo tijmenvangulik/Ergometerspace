@@ -4,6 +4,8 @@ title: Change log
 nav-menu: true
 show_tile: true
 --- 
+* 5.5.2
+  - Some extenal links did not open correctly
 * 5.5.1
   - Added documentation on the exports
 * 5.5.0
