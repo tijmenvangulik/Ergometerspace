@@ -5,6 +5,8 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.6.0
+  - Metronome widget
 * 5.5.2
   - Some external links did not open correctly
 * 5.5.1
