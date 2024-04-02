@@ -5,6 +5,11 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.7.0
+  - Added speed in km/h to workout charts
+  - Added average line to workout charts
+  - Speed in km/h widget
+  - Metronome show difference when actual pace is not correct
 * 5.6.0
   - Metronome widget
 * 5.5.2
