@@ -5,6 +5,11 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.7.1
+  - Fix problem that history chart did not reset after the work out
+  - fix usb issue with just row did not log the strokes (when feature is enabled)
+  - Fix usb issue with power curve logged twice
+  - Notification widget : fix speech getting out of sink when many warnings 
 * 5.7.0
   - Added speed in km/h to workout charts
   - Added average line to workout charts
