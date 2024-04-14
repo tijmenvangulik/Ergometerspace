@@ -266,6 +266,20 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<div href="generic.html" class="image">
+			<img src="assets/images/Metronome.png" alt="" data-position="25% 25%" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Metronome</h3>
+				</header>
+				<p>Practice a steady pace with the metronome. </p>
+				<p>Also allows you to practice your stroke recovery ratio.</p>
+			</div>
+		</div>
+	</section>
 </section>
 
 </div>

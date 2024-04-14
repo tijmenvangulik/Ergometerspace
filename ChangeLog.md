@@ -5,6 +5,10 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.8.0
+  - Stroke count widget
+  - Stroke distance for usb
+  - Stroke recovery ratio for usb
 * 5.7.1
   - Fix problem that history chart did not reset after the work out
   - fix usb issue with just row did not log the strokes (when feature is enabled)
