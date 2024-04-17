@@ -5,6 +5,13 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.9.0
+  - New setting to usa more accurate calculated pace
+  - Improvement calculating average pace  (average stroke count per minute)
+  - Show configured pace in metronome
+  - Allow silent rules in the notification widget
+  - Fix just rows workout log distance formatting
+  - Fix problem with uploading just row workouts to concept2
 * 5.8.0
   - Stroke count widget
   - Stroke distance for usb
