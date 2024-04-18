@@ -5,6 +5,8 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.9.2
+  - Fix distance a reset bug in for USB
 * 5.9.1
   - Layout fix metronome
 * 5.9.0
