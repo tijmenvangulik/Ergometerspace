@@ -5,6 +5,8 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.9.1
+  - Layout fix metronome
 * 5.9.0
   - New setting for a more accurate calculated pace
   - Improvement calculating average pace  (average stroke count per minute)
