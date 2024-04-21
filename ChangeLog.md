@@ -5,6 +5,14 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.10.0
+  - All value widgets: Choose between 4 layouts
+  - Average split value widget
+  - Average speed value widget
+  - Distance value widget
+  - Fix import dashboard column count not set
+  - Renamed strokes per minute widget to pace
+  - Fix blue tooth: Work distance should count down when rowing a fixed distance
 * 5.9.2
   - Fix distance a reset bug in for USB
 * 5.9.1
