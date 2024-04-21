@@ -13,6 +13,7 @@ image: assets/images/PowerCurve.jpg
   - Fix import dashboard column count not set
   - Renamed strokes per minute widget to pace
   - Fix blue tooth: Work distance should count down when rowing a fixed distance
+  - New template dashboard for large screens
 * 5.9.2
   - Fix distance a reset bug in for USB
 * 5.9.1
