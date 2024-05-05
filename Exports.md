@@ -2,7 +2,7 @@
 layout: pageContent
 title: Exports
 nav-menu: false
-show_tile: true
+show_tile: false
 image: assets/images/Shark.jpg"
 ---
 
