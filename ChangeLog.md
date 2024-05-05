@@ -5,6 +5,10 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.11.0
+  - Dark theme. Switch themes in the settings. When your browser detects a dark theme it will switch to dark theme in automatic mode. 
+  - Small light theme improvements
+  - Race widget: Highlight rower option is now always on , it is not possible to switch it off.
 * 5.10.0
   - All value widgets: Choose between 4 layouts
   - Average split value widget

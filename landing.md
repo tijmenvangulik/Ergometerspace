@@ -280,6 +280,21 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<div href="generic.html" class="image">
+			<img src="assets/images/DarkTheme.jpg" alt="" data-position="top center" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Theme</h3>
+				</header>
+<ul>
+<li>Dark and light theme</li>
+</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 </div>
