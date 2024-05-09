@@ -8,9 +8,9 @@ image: assets/images/History.jpg
 
 Ergometer-space is an ergometer rowing app for concept2 PM3-5. The app support blue tooth for PM5 and USB for PM3-5. Most information is inside the app. Some longer topics are located on this side.
 
-* [Change log](ChangeLog.md)
+* [Change log](Title3_ChangeLog.md)
 * [Privacy](Privacy.md)
-* [Feature comparison](FeatureTable.md)
+* [Feature comparison](Title4_FeatureTable.md)
 * [Writing plugins](PLUGINS.md)
 * [Creating an map with a route](Maps/index.md)
 * [Connecting to the ergometer](connection.md)
