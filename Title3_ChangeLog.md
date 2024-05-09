@@ -5,6 +5,8 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.11.2 
+ - improved styling 
 * 5.11.0
   - Dark theme. Switch themes in the settings. When your browser detects a dark theme it will switch to dark theme in automatic mode. 
   - Small light theme improvements
