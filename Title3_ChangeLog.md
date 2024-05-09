@@ -5,6 +5,8 @@ nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
 --- 
+* 5.11.3
+  - Fix custom 3 dashboard column count
 * 5.11.2 
   - improved styling 
 * 5.11.0
