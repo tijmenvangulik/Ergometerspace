@@ -3,6 +3,7 @@ layout: pageContent
 title: Plugins
 nav-menu: false
 show_tile: false
+permalink: PLUGINS.html
 ---
 
 # Development environment

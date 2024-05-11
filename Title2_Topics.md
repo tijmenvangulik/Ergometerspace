@@ -15,6 +15,6 @@ Ergometer-space is an ergometer rowing app for concept2 PM3-5. The app support b
 * [Writing plugins](PLUGINS.md)
 * [Creating an map with a route](Maps/index.md)
 * [Connecting to the ergometer](connection.md)
-* [Technical background](TECHNICAL.md)
+* [Technical background](Technical.md)
 * [Team rowing](TeamRowingOverview.md)
 * [Exports](Exports.md)

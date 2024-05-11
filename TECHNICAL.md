@@ -3,6 +3,7 @@ layout: pageContent
 title: Technical background
 nav-menu: false
 show_tile: false
+permalink: TECHNICAL.html
 ---
 
 # Internal ergometer driver
