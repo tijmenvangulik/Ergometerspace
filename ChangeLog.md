@@ -1,3 +1,3 @@
 ---
-permalink: /Title3_ChangeLog.html
+permalink: Title3_ChangeLog.html
 ---
