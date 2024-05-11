@@ -4,6 +4,7 @@ layout: landing
 description: 'Quick overview on what you can do with ergometer-space'
 image: assets/images/3dRowingTitle.jpg
 nav-menu: true
+permalink: Landing.html
 ---
 
 <!-- Main -->

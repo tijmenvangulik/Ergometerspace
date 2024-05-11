@@ -4,6 +4,7 @@ title: Feature comparison
 nav-menu: true
 show_tile: true
 image: assets/images/RowMap.jpg
+permalink: FeatureTable.html
 ---
 Feature comparison
 
