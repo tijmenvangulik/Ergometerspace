@@ -4,6 +4,7 @@ title: Change log
 nav-menu: true
 show_tile: true
 image: assets/images/PowerCurve.jpg
+permalink: ChangeLog.html
 --- 
 * 5.11.3
   - Fix custom 3 dashboard column count
