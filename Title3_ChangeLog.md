@@ -6,8 +6,8 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
-* 5.11.4
-  - Small dashboard styling change
+* 5.11.5
+  - Small dashboard styling changes
 * 5.11.3
   - Fix custom 3 dashboard column count
 * 5.11.2 
