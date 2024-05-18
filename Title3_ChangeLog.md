@@ -6,6 +6,12 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.12.0
+  - Styling improvements
+  - For new users the default theme will be dark by default
+  - Race widget: more smooth winner animation
+  - Race widget: allow hide high scores
+  - Make it easier to resize widgets in mobile apps
 * 5.11.5
   - Small dashboard styling changes
 * 5.11.3
