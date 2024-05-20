@@ -6,6 +6,9 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.12.1
+  - Dark theme improvements
+  - Larger drop downs for mobile
 * 5.12.0
   - Styling improvements
   - For new users the default theme will be dark by default
