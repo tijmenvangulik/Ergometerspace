@@ -6,7 +6,7 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
-* 5.12.2
+* 5.12.3
   - Dark theme improvements
   - Larger drop downs for mobile
 * 5.12.0
