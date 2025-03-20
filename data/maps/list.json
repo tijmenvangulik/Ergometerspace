@@ -1,4 +1,9 @@
 [
+{ "name":"FMPGC",
+  "distance":320764,
+  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/maps/FMPGC.kml",
+  "author":"Steve Sykes"
+},
 { "name": "The boat race",
   "distance":5581,
   "url":"https://tijmenvangulik.github.io/Ergometerspace/data/maps/TheBoatRace.kml",
@@ -53,10 +58,5 @@
   "distance":207800,
   "url":"https://tijmenvangulik.github.io/Ergometerspace/data/maps/Elfstedenroeimarathon.kml",
   "author":"GPX import van Wetterwille website"
-},
-{ "name":"FMPGC",
-  "distance":320764,
-  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/maps/FMPGC.kml",
-  "author":"Steve Sykes"
 }
 ]
