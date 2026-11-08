@@ -6,6 +6,9 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.14.4
+  - Connection panel theme improvement
+  - Bug fixes connecting to ergometer using blue tooth and usb
 * 5.14.1
   - Added feature to select and create the workouts
 * 5.14.0
