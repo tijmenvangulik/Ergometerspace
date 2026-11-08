@@ -6,6 +6,8 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.14.1
+  - Added feature to select and create the workouts
 * 5.14.0
   - Improved storage performance when there are many logged workouts 
   - Text improvements
