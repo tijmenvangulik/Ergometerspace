@@ -6,6 +6,10 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.14.0
+  - Improved storage performance when there are many logged workouts 
+  - Text improvements
+  - Error color layout improvement
 * 5.12.3
   - Dark theme improvements
   - Larger drop downs for mobile
