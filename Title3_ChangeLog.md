@@ -6,6 +6,10 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.14.7
+  - Stability improvements performance monitor connector
+  - Small layout fixes in connection panel
+  - Up down buttons in select workout
 * 5.14.4
   - Connection panel theme improvement
   - Bug fixes connecting to ergometer using blue tooth and usb
