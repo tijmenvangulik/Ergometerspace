@@ -6,6 +6,8 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.15.0
+  - Improve Interval support (in the race value widget and fix history chart jitter)
 * 5.14.9
   - Large bug fix release and upgraded jquery
 * 5.14.7
