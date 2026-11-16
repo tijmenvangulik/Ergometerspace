@@ -6,6 +6,8 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.16.3
+  - Improve workout styling
 * 5.15.1
   - Improve Interval support (in the race value widget and fix history chart jitter)
   - Upload more into to concept2
