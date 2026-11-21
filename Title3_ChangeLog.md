@@ -6,6 +6,8 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.17.0 (web only release)
+  - Allow setting workouts using USB
 * 5.16.3 (web only release)
   - Improve workout styling
 * 5.15.1 (web only release)
