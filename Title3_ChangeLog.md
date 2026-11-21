@@ -6,6 +6,11 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.18.0 (web only release)
+  - Online rowing with audience (create a private room for this)
+  - Private Room creator now sets the distance an can set announcement in the race widget 
+  - Fix in peer to peer connections
+  - bug fixes in team rowing
 * 5.17.0 (web only release)
   - Allow setting workouts using USB
 * 5.16.3 (web only release)

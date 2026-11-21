@@ -7,155 +7,176 @@ show_tile: false
 
 # Introduction
 
-In ergometer space you can row together online. This document describes how to organize a team rowing and how rowers can join teams and start racing.  
+With Ergometer Space you can row together online. This document describes how to organize team rowing with direct login links, and how rowers join a team and start racing.
 
-Ergometer space is available trough:
-* [Website](https://ergometer-space.org/)  (Use a chromium based web browser like Chrome or Edge)
-* Android [download from the play store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace)
-* iOS  [Apple app store](https://apps.apple.com/us/app/ergometer-space/id1548193188) 
+Ergometer Space is available through:
+* The [website](https://ergometer-space.org/). Use a Chromium-based web browser, like Chrome or Edge.
+* Android: [download it from the Play Store](https://play.google.com/store/apps/details?id=org.tijmenvangulik.ergometerspace)
+* iOS: [download it from the App Store](https://apps.apple.com/us/app/ergometer-space/id1548193188)
 
 # Roles
 
-There are 4 different roles:
+There are 4 roles:
 
-* Solo rower: Rower which does not row in a team and has its own boat.
-* Team captain: When you are the first team member which logs in you will become the team captain. A team captain controls the distance and the team will be removed when the team member logs off.
-* Team rower: Rower which joins a team. Team rowers row in one boat. The boat has the average speed of alle the rowers.
-* Observer : Watches the race and is not visible in the race widgets. Race results will be included in the workout log of the observer.
+* Solo rower: a rower who does not row in a team and has their own boat.
+* Team captain: the first team member who logs in becomes the team captain. The team captain is the owner of the team. When the team captain logs off, another team member becomes captain.
+* Team rower: a rower who joins a team. Team rowers row in one boat. The boat moves at the average speed of all the rowers in the team.
+* Observer: watches the race with the full dashboard, like a coach, and is not shown in the race widgets. The race results are added to the workout log of the observer. Use this role only for a few people; the public can watch with the audience link (see [Observer or audience?](TeamRowing.md#observer-or-audience)).
+
+The person who creates the room is the **room creator**. With login links this is the first user who logs in with a link: that login creates the room. The room creator sets the race distance and the race announcement for everybody in the room.
 
 # Race organizer
 
-If you have many teams and and are different races which start at the same time you use different rooms for every race. You should not create too many rooms because the server has a limit of 40 rooms.
+If you have many teams and several races that start at the same time, use a separate room for every race. Do not create too many rooms, because the server has a limit of 40 rooms.
 
-Team boats will go at the average speed of the rowers. This also means that no matter how many rowers there are in a team they can compete against each other.
+Team boats move at the average speed of their rowers. This means that teams can race against each other, no matter how many rowers each team has.
 
-The race organizer will send al link (url) to every one who is going to attend. In your mail / app you have to give some tell the users that to do with the link. Some thing like this:
+The race organizer sends a link (URL) to everyone who is going to take part. In your email or message, tell the users what to do with the link. For example:
 
-    Please open the link in a chromium based browser (for example chrome or edge) or a native app ergometer-space installed on the phone/computer. 
-    When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
+    Please open the link in a Chromium-based browser (for example Chrome or Edge), or in the Ergometer Space app on your phone or computer.
+    When you use the app, copy the link, open "Direct login link" from the menu, paste the link into the text box and press Login.
 
-## creating links
-To create a link go in the menu to Direct login link and then go to the tab create. 
+## Creating links
+To create a link, open "Direct login link" from the menu and go to the Create tab.
 
-All the properties on how the room is created are stored in the link. When you change a property like for example the password or a login type you have to send the the link to the user(s). If for example one of your users still uses the old link things may go wrong because if that user uses the link with an old room password other users will not be able to login because they use the new password. It is best to not change these properties and when you do change the name of the room when you resend a changed url to all your users.
+All the settings of the room are stored in the link. When you change a setting, for example the password or a login type, you have to send the new link to the users. If one of your users still uses an old link, things can go wrong: for example, when that user creates the room with the old password, the other users cannot log in because they use the new password. It is best not to change these settings. If you do change them, also change the room name when you send the new links to all your users.
 
 Fill in:
-* Room name: (use a unique name. )
-* Room password: (This is the password for the room, you should NOT give a different password to every user.)
-* User name. Send every user a different link with a unique user name.
-* Login type: It is not possible to change your login type. It is possible to join another team, but team captains can not join another team because they are the owner of the team. To do this you have to send multiple links or the users can log off/on to get a different role.
-* Include dashboard: Check this if you want to send a prepared dashboard to the users. A observer may want to see different things than a rower. When you use a map for the race you may want to include the map widget. The widget positions in the current dashboard will be exported. (not all the properties of the widgets)
-* Hidden room: Your private room will not be shown publicly to other users. Users can only login using a Direct login link and not from the menu. Checking this option will make it a bit safer. If some one knows your room name he could create a room with the same name just before you with a different password. You and your users will not be able to login any more and you have to create new links. With this option no one else will see and know your room name.
-* Welcome text: Text which is shown before the user logs in.
-* Map: Url to a kml file which contains the map. This option is nice if you want do a race which is normally on the water online using ergometers. See the topic  [maps](Maps/index.md)
-  
-Press create to make a link. You can modify/multiply the link in an text editor/spreadsheet afterwards. But keep in mind that you should not use special characters in a link. Normal spaces are also not allowed. Editing the link wrongly and they will not work any more. 
+* Room name: use a unique name.
+* Room password: the password of the room. Give every user the same password, not a different one.
+* User name: send every user a different link with a unique user name.
+* Login type: users cannot change their login type. A team rower can join another team, but team captains cannot, because they are the owner of their team. If you want users to be able to change roles, send them several links, or let them log off and log in again with another role.
+* Distance: for team rowers. This is the race distance of the room. The user who creates the room with their link sets this distance for everybody, so give all users of the room the same distance. When the room already has a distance, the distance in the link is not used.
+* Include dashboard: check this to send a prepared dashboard to the users. An observer may want to see other things than a rower. When you use a map for the race, you may want to include the map widget. The positions of the widgets in your current dashboard are exported (not all the settings of the widgets).
+* Hidden room: your private room is not shown publicly to other users. Users can only log in with a direct login link, not from the menu. This option makes it a bit safer: if someone knows your room name, they could create a room with the same name just before you, with a different password. Then you and your users cannot log in anymore and you have to create new links. With this option nobody else sees your room name.
+* Welcome text: a text that is shown before the user logs in.
+* Map: the URL of a KML file with the map. This is nice when you want to row a race that is normally on the water online, on ergometers. See the topic [maps](Maps/index.md).
 
-* The link includes the version of the app in which you have created the link. The users to which you send the link should be on the same version or above.
+Press Create to make a link. You can change or copy the link afterwards in a text editor or a spreadsheet. Be careful: do not use special characters or normal spaces in a link. When the link is edited incorrectly, it does not work anymore.
 
-Example urls which you can send to users. The example includes a dashboard and a map
-* Solo Rower:  [link](https://ergometer-space.org?action=doLogin&version=3.5.3&roomName=Room1&password=room1password&userName=Rower1&loginType=SoloRower&map=https://tijmenvangulik.github.io/Ergometerspace/data/maps/TheBoatRace.kml&dashboard=%7B%22widgets%22:%5B%7B%22name%22:%22TrainingDataWidget%22,%22x%22:0,%22y%22:0,%22width%22:3,%22height%22:1,%22percentageChartVisible%22:true,%22valueFontSize%22:100,%22sparkLineVisible%22:true%7D,%7B%22name%22:%22MapWidget%22,%22x%22:2,%22y%22:8,%22width%22:2,%22height%22:10,%22valueFontSize%22:100%7D,%7B%22name%22:%22RaceTrackWidget%22,%22x%22:0,%22y%22:1,%22width%22:3,%22height%22:7,%22valueFontSize%22:100%7D,%7B%22x%22:0,%22y%22:8,%22width%22:2,%22height%22:10,%22valueFontSize%22:100,%22name%22:%22chatWidget%22%7D,%7B%22x%22:3,%22y%22:0,%22width%22:1,%22height%22:8,%22valueFontSize%22:100,%22name%22:%22TrafficLightWidget%22%7D%5D%7D&welcome=Welcome%20to%20the%20race)
-* Team Rower:  [link](https://ergometer-space.org?action=doLogin&version=3.5.3&roomName=Room1&password=room1password&userName=Rower1&teamName=Team1&loginType=TeamRower&distance=1000&map=https://tijmenvangulik.github.io/Ergometerspace/data/maps/TheBoatRace.kml&dashboard=%7B%22widgets%22:%5B%7B%22name%22:%22TrainingDataWidget%22,%22x%22:0,%22y%22:0,%22width%22:3,%22height%22:1,%22percentageChartVisible%22:true,%22valueFontSize%22:100,%22sparkLineVisible%22:true%7D,%7B%22name%22:%22MapWidget%22,%22x%22:2,%22y%22:8,%22width%22:2,%22height%22:10,%22valueFontSize%22:100%7D,%7B%22name%22:%22RaceTrackWidget%22,%22x%22:0,%22y%22:1,%22width%22:3,%22height%22:7,%22valueFontSize%22:100%7D,%7B%22x%22:0,%22y%22:8,%22width%22:2,%22height%22:10,%22valueFontSize%22:100,%22name%22:%22chatWidget%22%7D,%7B%22x%22:3,%22y%22:0,%22width%22:1,%22height%22:8,%22valueFontSize%22:100,%22name%22:%22TrafficLightWidget%22%7D%5D%7D&welcome=Welcome%20to%20the%20race)
-* Observer: [link](https://ergometer-space.org?action=doLogin&version=3.5.3&roomName=Room1&password=room1password&userName=Rower1&loginType=SoloRower&map=https://tijmenvangulik.github.io/Ergometerspace/data/maps/TheBoatRace.kml&dashboard=%7B%22widgets%22:%5B%7B%22name%22:%22MapWidget%22,%22x%22:2,%22y%22:7,%22width%22:2,%22height%22:10,%22valueFontSize%22:100%7D,%7B%22name%22:%22RaceTrackWidget%22,%22x%22:0,%22y%22:0,%22width%22:2,%22height%22:9,%22valueFontSize%22:100%7D,%7B%22x%22:3,%22y%22:0,%22width%22:1,%22height%22:7,%22valueFontSize%22:100,%22name%22:%22chatWidget%22%7D,%7B%22x%22:2,%22y%22:0,%22width%22:1,%22height%22:7,%22valueFontSize%22:100,%22name%22:%22TrafficLightWidget%22%7D,%7B%22x%22:0,%22y%22:9,%22width%22:2,%22height%22:8,%22valueFontSize%22:100,%22name%22:%22RaceValuesWidget%22%7D%5D%7D&welcome=Welcome%20to%20the%20race)
+* The link contains the version of the app in which you created it. The users you send the link to should use the same version or a newer one.
 
-After login you can start from menu  the "teams & room users" dialog. This dialog shows the the logged in users and the joined teams.
+Example URLs that you can send to users. The examples include a dashboard and a map:
+* Solo rower: [link](https://ergometer-space.org?action=doLogin&version=3.5.3&roomName=Room1&password=room1password&userName=Rower1&loginType=SoloRower&map=https://tijmenvangulik.github.io/Ergometerspace/data/maps/TheBoatRace.kml&dashboard=%7B%22widgets%22:%5B%7B%22name%22:%22TrainingDataWidget%22,%22x%22:0,%22y%22:0,%22width%22:3,%22height%22:1,%22percentageChartVisible%22:true,%22valueFontSize%22:100,%22sparkLineVisible%22:true%7D,%7B%22name%22:%22MapWidget%22,%22x%22:2,%22y%22:8,%22width%22:2,%22height%22:10,%22valueFontSize%22:100%7D,%7B%22name%22:%22RaceTrackWidget%22,%22x%22:0,%22y%22:1,%22width%22:3,%22height%22:7,%22valueFontSize%22:100%7D,%7B%22x%22:0,%22y%22:8,%22width%22:2,%22height%22:10,%22valueFontSize%22:100,%22name%22:%22chatWidget%22%7D,%7B%22x%22:3,%22y%22:0,%22width%22:1,%22height%22:8,%22valueFontSize%22:100,%22name%22:%22TrafficLightWidget%22%7D%5D%7D&welcome=Welcome%20to%20the%20race)
+* Team rower: [link](https://ergometer-space.org?action=doLogin&version=3.5.3&roomName=Room1&password=room1password&userName=Rower2&teamName=Team1&loginType=TeamRower&distance=1000&map=https://tijmenvangulik.github.io/Ergometerspace/data/maps/TheBoatRace.kml&dashboard=%7B%22widgets%22:%5B%7B%22name%22:%22TrainingDataWidget%22,%22x%22:0,%22y%22:0,%22width%22:3,%22height%22:1,%22percentageChartVisible%22:true,%22valueFontSize%22:100,%22sparkLineVisible%22:true%7D,%7B%22name%22:%22MapWidget%22,%22x%22:2,%22y%22:8,%22width%22:2,%22height%22:10,%22valueFontSize%22:100%7D,%7B%22name%22:%22RaceTrackWidget%22,%22x%22:0,%22y%22:1,%22width%22:3,%22height%22:7,%22valueFontSize%22:100%7D,%7B%22x%22:0,%22y%22:8,%22width%22:2,%22height%22:10,%22valueFontSize%22:100,%22name%22:%22chatWidget%22%7D,%7B%22x%22:3,%22y%22:0,%22width%22:1,%22height%22:8,%22valueFontSize%22:100,%22name%22:%22TrafficLightWidget%22%7D%5D%7D&welcome=Welcome%20to%20the%20race)
+* Observer: [link](https://ergometer-space.org?action=doLogin&version=3.5.3&roomName=Room1&password=room1password&userName=Coach1&loginType=Observer&map=https://tijmenvangulik.github.io/Ergometerspace/data/maps/TheBoatRace.kml&dashboard=%7B%22widgets%22:%5B%7B%22name%22:%22MapWidget%22,%22x%22:2,%22y%22:7,%22width%22:2,%22height%22:10,%22valueFontSize%22:100%7D,%7B%22name%22:%22RaceTrackWidget%22,%22x%22:0,%22y%22:0,%22width%22:2,%22height%22:9,%22valueFontSize%22:100%7D,%7B%22x%22:3,%22y%22:0,%22width%22:1,%22height%22:7,%22valueFontSize%22:100,%22name%22:%22chatWidget%22%7D,%7B%22x%22:2,%22y%22:0,%22width%22:1,%22height%22:7,%22valueFontSize%22:100,%22name%22:%22TrafficLightWidget%22%7D,%7B%22x%22:0,%22y%22:9,%22width%22:2,%22height%22:8,%22valueFontSize%22:100,%22name%22:%22RaceValuesWidget%22%7D%5D%7D&welcome=Welcome%20to%20the%20race)
 
-Start the race using the traffic light widget. 
+After you have logged in you can open the "Teams & room users" dialog from the menu. This dialog shows the logged-in users, the teams and the race distance.
 
-See the chapter [Organize your dashboard](#organize-your-dashboard) to see how to prepare your dashboard.
+When you are the room creator, you see a bar above the race widget with a pencil button. With it you can set or change:
+* the announcement: a text that is shown above the race to all rowers and to the audience;
+* the race distance for all rowers in the room.
 
-Use the race widget to see the progress of the race
+![Race settings with the announcement and the race distance](Images/Announcement.jpg)
+
+Start the race with the traffic light widget.
+
+See the chapter [Organize your dashboard](#organize-your-dashboard) on how to prepare your dashboard.
+
+Follow the race in the race widget.
 
 
-![Race with multipe rowers](<Images/Pasted Graphic 5.png>)
+![Race with multiple rowers](<Images/Pasted Graphic 5.png>)
 
-Use the “values of rowers” widget to check on all the detail data  of the rowers during the race. 
+Use the "Values of rowers" widget to see all the details of the rowers during the race.
 
-At the end of the race you can see the end times of all the rowers in the "work out log” (open it from the menu)
+At the end of the race you can see the end times of all the rowers in the workout log (open it from the menu).
 
-As organizer you should not invite too many users in the observer role since this may increase the network load and decrease the race quality.
+As organizer you should not invite too many users as observers, because this increases the network load and can lower the quality of the race. For a large audience, use the public audience link instead (see below).
+
+## Public audience
+
+People who do not row can watch the race live in a web browser, without logging in. Check **Public audience** when you create the private room from the menu ("Create private room"). After the room is created you get the audience link. Everybody who is logged in to the room can also find it in the menu ("Audience link") and in the "Teams & room users" dialog. Share this link with your audience.
+
+![The audience page](Images/Audience.jpg)
+
+The audience page shows the race, the traffic light, the announcement and a table with the results. See [Public audience](TeamRowing.md#public-audience) for more details.
 
 # Observers
 
-Please open the link which is given to you in a chromium based browser (for example chrome or edge) or a native app ergometer-space installed on the phone/computer. 
-When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
+Please open the link you received in a Chromium-based browser (for example Chrome or Edge), or in the Ergometer Space app on your phone or computer.
+When you use the app, copy the link, open "Direct login link" from the menu, paste the link into the text box and press Login.
 
-Now you can watch the race or chat with other rowers.
+Now you can watch the race and chat with the rowers.
 
-See the chapter [Organize your dashboard](#Organize your dashboard) to see how to prepare your dashboard.
+See the chapter [Organize your dashboard](#organize-your-dashboard) on how to prepare your dashboard.
 
 Enjoy watching the race.
 
 # Solo rowers
 
-Please open the link which is given to you in a chromium based browser (for example chrome or edge) or a native app ergometer-space installed on the phone/computer. 
-When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
+Please open the link you received in a Chromium-based browser (for example Chrome or Edge), or in the Ergometer Space app on your phone or computer.
+When you use the app, copy the link, open "Direct login link" from the menu, paste the link into the text box and press Login.
 
-After the login connect the ergometer and set your ergometer to the same distance.
+After you have logged in, connect your ergometer. When the room has a race distance and your ergometer is connected over Bluetooth or USB, Ergometer Space sets this distance on your ergometer automatically, but never while you are rowing a workout. Otherwise, set your ergometer to the race distance yourself.
 
-See the chapter [Organize your dashboard](#Organize your dashboard) to see how to prepare your dashboard for racing.
+See the chapter [Organize your dashboard](#organize-your-dashboard) on how to prepare your dashboard for racing.
 
 # Team rowers
 
-Please open the link which is given to you in a chromium based browser (for example chrome/edge/brave/opera) or a native app ergometer-space installed on the phone/computer. 
-When you use a native app you have to copy the link, open the Direct login link from the menu and paste the link into the text box. Press login to login.
+Please open the link you received in a Chromium-based browser (for example Chrome, Edge, Brave or Opera), or in the Ergometer Space app on your phone or computer.
+When you use the app, copy the link, open "Direct login link" from the menu, paste the link into the text box and press Login.
 
-When you are the first team member which logs in you will become the team captain. A team captain controls the distance and the team will be removed when the team member logs off.
+When you are the first team member who logs in, you become the team captain. The team captain is the owner of the team. When the team captain logs off, another team member becomes captain.
 
-You should set the ergometer to “just row” (and not the distance which you are about to row). The boat will go at the average speed of the rowers. At the end of race it is possible that you have a longer distance displayed on your ergometer and that a team member which did row slower has a lower distance.
+Your ergometer must be set to "just row", not to the distance of the race. When your ergometer is connected over Bluetooth or USB, Ergometer Space does this for you, but never while you are rowing a workout. The boat moves at the average speed of the rowers. At the end of the race the distance on your ergometer can be longer than the race distance, and a team member who rowed slower has a shorter distance.
 
-See the chapter [Organize your dashboard](#Organize your dashboard) to see how to prepare your dashboard for racing.
+A team member who has finished keeps their distance in the team average, also when they reset their ergometer. The boat finishes when the average distance of all team members reaches the race distance.
+
+See the chapter [Organize your dashboard](#organize-your-dashboard) on how to prepare your dashboard for racing.
 
 ## Organize your dashboard
 
-For team racing the are some important widgets.
+These widgets are important for team racing:
 
 1. Race widget
-2. Chat widget.
-3. Traffic light. 
+2. Chat widget
+3. Traffic light
 4. Values of rowers
 
-The race widget is standard visible the other widgets should be added by your selves.
-To add widgets click on the edit icon in the top right corner:
+The race widget is visible by default. You have to add the other widgets yourself.
+To add widgets, click the edit icon in the top right corner:
 
 ![](Images/EditIcon.jpg)
 
-Then click on the + button in the left corner to open the widget menu. Now Open the Row together section and at least add the Chat widget and the Traffic light widget:
+Then click the + button in the left corner to open the widget menu. Open the "Row together" section and add at least the Chat widget and the Traffic light widget:
 
 ![](Images/AddWidgets.jpg)
 
-Coaches can also add the value of rowers widget to see the race details.
+Coaches can also add the "Values of rowers" widget to see the details of the race.
 
-The widget with the 3d rower costs a lot of process power/energy. If you do not use it, it is better to close it.
+The widget with the 3D rower uses a lot of processing power and energy. If you do not use it, it is better to remove it.
 
-Widgets in detail:
+The widgets in detail:
 
 ## Race widget
 
-In this widget you can see other teams and the progress of race. The animated rower is the actual position of the rower. In gray in the back ground you see the projected position as if you and the other rower had started at exactly the same time. This makes it possible to race against some one which has started a bit earlier or later.
+This widget shows the other rowers and teams and the progress of the race. The animated rower on the orange background is the actual position of the rower. The gray boat behind it is the projected position: where the rower would be if you and the other rower had started at exactly the same time. This makes it possible to race against someone who started a bit earlier or later.
 
-![Race with multipe rowers](<Images/Pasted Graphic 5.png>)
+Dashed lines in the water mark the distance in meters. Above the race you see the announcement and the race distance of the room.
+
+![Race with multiple rowers](<Images/Pasted Graphic 5.png>)
 
 ## Chat widget
 
-Here you can chat with any one in the same room. Click on the speaker button to activate audio. You can check the "to team only" to send messages to only your own team. (This only works if you have joined a team)
+Here you can chat with everybody in the same room. Click the speaker button to turn on audio. Check "to team only" to send messages only to your own team. This only works when you have joined a team.
 
 ## Traffic light widget
 
-The traffic light is usefull for starting at the same time. Clicking on the traffic light will open a dialog which enables you to start the traffic light. The traffic light has a count down. 
+The traffic light helps everybody start at the same time. Click the traffic light to open a dialog in which you start it. The traffic light counts down, and turns green when the race starts.
 
 ## Values of rowers widget
 
-See the details of the rowers. This is useful for the coach. Not all values are directly displayed. In the dashboard edit mode you can configure which columns will be shown. 
+Shows the details of all the rowers. This is useful for the coach. Not all values are shown by default: in the dashboard edit mode you can choose which columns are shown.
 
-# Trouble shooting room connections
+# Troubleshooting room connections
 
-From the menu you can start the "teams & room users" dialog. It shows all the users in the room. If a user has joined but is not correctly connected due to connection problems it is shown in the list with the text "not connected!". There are a view possible errors
+From the menu you can open the "Teams & room users" dialog. It shows all the users in the room. When a user has joined but is not connected correctly because of connection problems, the list shows it after the user name. These are the possible messages:
   - not connected! old version of the app.
     This user should upgrade to the latest version (at least 3.5.0).
   - Connected via server, no audio.
-    The user is connected, you can row together. This happens your network does not support direct connections the communication goes via the central server. This can sometimes result in a bit slower updates.  Audio is not supported for this user. Using a wifi instead of a mobile connection may help.
+    The user is connected and you can row together. This happens when the network does not support direct connections: then the communication goes through the central server, which can make the updates a bit slower. Audio is not supported for this user. Using Wi-Fi instead of a mobile connection may help.
   - not connected!
-    You can not connect at all maybe the network it selves is down. Check your wifi/network cables or mobile network provider.
+    The user cannot connect at all. Maybe the network itself is down. Check your Wi-Fi, network cables or mobile network.
 
-As alternative you could also create a room with the option "backwards compatible room" box checked. This kind of room has less problems with network connections. The disadvantage of these kind of rooms are that networking is much slower and it is less scalable (resulting slower updates)
+As an alternative you can create a room with the "Backwards compatible room" option checked. This kind of room has fewer problems with network connections. The disadvantage is that these rooms are much slower and scale less well, which results in slower updates.
