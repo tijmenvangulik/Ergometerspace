@@ -6,27 +6,27 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
-* 5.16.3
+* 5.16.3 (web only release)
   - Improve workout styling
-* 5.15.1
+* 5.15.1 (web only release)
   - Improve Interval support (in the race value widget and fix history chart jitter)
   - Upload more into to concept2
-* 5.14.9
+* 5.14.9 (web only release)
   - Large bug fix release and upgraded jquery
-* 5.14.7
+* 5.14.7 (web only release)
   - Stability improvements performance monitor connector
   - Small layout fixes in connection panel
   - Up down buttons in select workout
-* 5.14.4
+* 5.14.4 (web only release)
   - Connection panel theme improvement
   - Bug fixes connecting to ergometer using blue tooth and usb
-* 5.14.1
+* 5.14.1 (web only release)
   - Added feature to select and create the workouts
-* 5.14.0
+* 5.14.0 (web only release)
   - Improved storage performance when there are many logged workouts 
   - Text improvements
   - Error color layout improvement
-* 5.12.3
+* 5.12.3 (web only release)
   - Dark theme improvements
   - Larger drop downs for mobile
 * 5.12.0
