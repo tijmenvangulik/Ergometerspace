@@ -6,6 +6,9 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.18.3 Web, iOS, Android release
+  - Updated intro page
+  - Changes for android and iOS
 * 5.18.0 (web only release)
   - Online rowing with audience (create a private room for this)
   - Private Room creator now sets the distance an can set announcement in the race widget 
