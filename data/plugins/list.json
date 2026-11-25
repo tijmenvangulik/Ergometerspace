@@ -11,9 +11,6 @@
 { "name":"Example history widgets",
   "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/Examples/HistoryWidget.json"
 } ,
-{ "name":"Example google earth widget",
-  "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/Examples/GoogleEarthWidget.json"
-},
 { "name":"Language translation example",
   "url":"https://tijmenvangulik.github.io/Ergometerspace/data/plugins/TijmenVanGulik/Examples/languageExample.json"
 },
