@@ -6,6 +6,12 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
+* 5.19.0 Web, iOS pending, Android pending
+  - Share map with audience
+  - fix iOS hangs with white flashing when opened after some thime
+  - iOS and android store workouts separate for performance
+  - Audience relative position improvement
+  - Updated plugin examples
 * 5.18.3 Web, iOS, Android release
   - Updated intro page
   - Changes for android and iOS
