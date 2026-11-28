@@ -15,6 +15,38 @@ update source. It is best to write and debug code in chrome.
 
 A view examples plugins with one or more widgets can be installed from the "add from web" option.
 
+## Make a plugin with AI
+
+You can let the AI chat you already use (ChatGPT, Claude, Gemini, ...) write or change a plugin. The AI runs in your own
+account, Ergometer Space does not send anything to it.
+
+1. Open **Plugins** and press **New plugin with AI**. Give the plugin a name and press **Next**: the code editor
+   opens with the AI dialog. To change an existing plugin, open its code and press the chat button in the toolbar of
+   the code editor.
+2. Describe what the plugin should do (or what should change).
+3. Download the API file `ErgometerApp.d.ts`: it tells the AI which classes, methods and events the app has.
+4. Copy the prompt, paste it in your AI chat, attach the API file and send it.
+5. The AI answers with one code block. Copy it with the copy button of that block, paste it in the app and press
+   **Use this code**. The code is compiled and saved.
+6. When there are errors, copy them for the AI, send them in the same chat and use its new answer.
+7. When the code works, its new widgets are added to the dashboard automatically (remove one with its close button).
+   The play button of the code editor replays rowing data, so you can try the widgets without rowing.
+
+A plugin runs inside the app with the same rights as the app: read the code before you use it, and only install plugins
+whose author you trust. Make a backup first: choose **Backup & restore** in the menu (under Other) and save all your data
+to a file, so you can restore it when a plugin breaks something.
+A new plugin that is closed before it has code is removed again. Making plugins with AI is not available in the iOS app,
+and plugins can only be edited on a larger screen.
+
+Tip: in a ChatGPT custom GPT or a Claude Project you can add `ErgometerApp.d.ts` and this page once, so you do not have
+to attach them every time.
+
+The prompt is stored on this site, so it can be improved without a new version of the app:
+[PluginPrompt.txt](data/plugins/ai/PluginPrompt.txt) and [PluginFixPrompt.txt](data/plugins/ai/PluginFixPrompt.txt).
+The app fills in the {% raw %}`{{...}}`{% endraw %} placeholders. Keep the answer format at the end of the prompts: one code
+block with the lines `//=== TYPESCRIPT ===`, `//=== HTML ===` and `//=== CSS ===` between the parts. The app reads the
+answer back from that block. Answers with separate `typescript`, `html` and `css` code blocks are also read.
+
 ## Publish your plugin
 
 The plugins are stored on github. You can fork te repository an push your own plugin
@@ -65,16 +97,17 @@ Included typescript (javascript) definitions:
 
 All API definitions are stored here:
 
-[http://www.vangulik.org/Ergometer/typescripts/]
+[https://ergometer-space.org/typescripts/]
 
 | Name | link |
 |------|------|
-| The application API | [http://www.vangulik.org/Ergometer/typescripts/ErgometerApp.d.ts] |
-| Highcharts | [http://www.vangulik.org/Ergometer/typescripts/highcharts.d.ts] |
-| jquery | [http://www.vangulik.org/Ergometer/typescripts/jquery.d.ts] |
-| jquery-ui | [http://www.vangulik.org/Ergometer/typescripts/jqueryui.d.ts] |
-| Require | [http://www.vangulik.org/Ergometer/typescripts/require.d.ts] |
-| Save as | [http://www.vangulik.org/Ergometer/typescripts/SaveAs.d.ts] |
+| The application API | [https://ergometer-space.org/typescripts/ErgometerApp.d.ts] |
+| Highcharts | [https://ergometer-space.org/typescripts/highcharts.d.ts] |
+| jquery | [https://ergometer-space.org/typescripts/jquery.d.ts] |
+| jquery-ui | [https://ergometer-space.org/typescripts/jqueryui.d.ts] |
+| OpenLayers | [https://ergometer-space.org/typescripts/OpenLayers.d.ts] |
+| Require | [https://ergometer-space.org/typescripts/require.d.ts] |
+| Save as | [https://ergometer-space.org/typescripts/SaveAs.d.ts] |
 
 All definitions can be viewed in the First Application API link. There are some important object which are
 documented in the following table:

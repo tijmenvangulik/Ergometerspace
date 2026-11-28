@@ -1,0 +1,34 @@
+Fix the Ergometer Space plugin "{{pluginName}}".
+
+IMPORTANT: answer with the COMPLETE plugin in ONE code block (the format is at the end), not only the changed lines. The user copies that one block back into the app and it replaces the whole plugin: code that is missing from your answer is lost.
+
+The TypeScript compiler of the app gives these errors:
+
+{{errors}}
+
+The current plugin:
+
+```typescript
+{{pluginCode}}
+```
+
+Fix the errors. Make sure that:
+- the namespace ends with `var plugin = new <YourPlugin>();` (a class that extends `ExternalPlugin`; its `init()` registers the widgets);
+- every `initControl()`, `loaded()` and `beforeUnload()` of a widget calls `super` first;
+- widget content is added with `this.$container.append(...)`;
+- only classes, methods and events that exist in the attached `ErgometerApp.d.ts` (or {{definitionsUrl}}) are used.
+
+Keep the widget ids and the rest of the plugin the same.
+
+# Answer format (required)
+
+Give the complete plugin again: all TypeScript code from `namespace` to the last `}`, also the parts that did not change. Never write "...", "rest unchanged" or only the changed lines. Use exactly one code block with these three marker lines. The HTML and CSS sections may stay empty when they did not change: the app then keeps the current HTML and CSS.
+
+```typescript
+//=== TYPESCRIPT ===
+// the complete TypeScript code, from namespace to the last }
+//=== HTML ===
+<!-- the html, empty when there is none or when it did not change -->
+//=== CSS ===
+/* the styles, empty when there are none or when they did not change */
+```

@@ -1,0 +1,128 @@
+You are an expert TypeScript developer. Write a plugin for Ergometer Space, a web app (also a PWA and an Android/iOS app) that shows live data of a Concept2 rowing ergometer on a dashboard of widgets.
+
+{{#newPlugin}}
+Make a new plugin called "{{pluginName}}" that does the following:
+
+{{wish}}
+{{/newPlugin}}
+{{#changePlugin}}
+Change the plugin "{{pluginName}}" below as follows:
+
+{{wish}}
+
+The current plugin (in the same format as your answer must be):
+
+```typescript
+{{pluginCode}}
+```
+
+Keep the existing widget ids (the second argument of `register`): they are saved in the dashboards of the users.
+{{/changePlugin}}
+
+# The plugin API
+
+The API of the app is described in the TypeScript definition file `ErgometerApp.d.ts`. It is attached to this chat; if it is not, read it here: {{definitionsUrl}}
+Only use classes, methods and events that exist in that file. More background: {{docsUrl}}
+
+Libraries that are loaded and can be used (global, no imports): jQuery 3 (`$`), Highcharts 5, OpenLayers 4 (`ol`), Bootstrap 3 and bootstrap-dialog.
+
+# Rules
+
+1. One TypeScript file, compiled as a script with target ES2015. No `import`, `export default` or `module`; put everything in `namespace {{namespace}} { ... }`.
+2. A plugin class extends `ExternalPlugin`. `init()` registers the widgets with `dashboard.widgetRegistry().register(WidgetClass, '<widget id>', '<menu caption>', ['<menu group>'])` and `remove()` deregisters them with `dashboard.widgetRegistry().deregister('<widget id>')`. The last line inside the namespace creates the plugin: `var plugin = new MyPlugin();`. The constructor of `ExternalPlugin` calls `init()`: without this line nothing is registered and the widget never appears.
+3. Widget ids start with `{{namespace}}_`, so they do not clash with other plugins. Never rename a widget id later.
+4. Widgets extend a base class from `ergometerWidgets` (for example `StrokeValueWidget`, `TrainingValueWidget`, `ValueWidget`, `CanvasWidget`, `HighChartWidget`, `ErgometerWidget`). The lifecycle is: `constructor(controller)`, `initControl()`, `loaded()`, `resize()`, `themeChanged()`, `beforeUnload()`.
+   Every override calls `super` first: `super.initControl()`, `super.loaded()`, `super.beforeUnload()`, ... `super.initControl()` creates the widget on the dashboard and its element `this.$container`; without it the widget does not appear and removing it crashes.
+   Build the content of a widget in `initControl()`, after `super.initControl()`, inside its own element `this.$container`: use `this.$container.append(...)` and `this.$container.find(...)`. Never use `this.$container.html(...)` (it removes the header and close button of the widget), and never add content to `this.controller.$mainControl` or `document.body` (that is the whole dashboard).
+5. Data comes from events, for example `pm3.monitor.pubsubs.subStrokeDataUpdate(this, this.strokeDataUpdate)`. Pass the method itself, not an arrow function, and unsubscribe every event in `beforeUnload()` with the matching `unsub...` method. `StrokeValueWidget` and `TrainingValueWidget` already subscribe `strokeDataUpdate` / `trainingDataUpdate` for you.
+6. The strokes of a saved workout (`pm3.WorkoutLogItem.strokes`) are only there after `await pm3.log.ensureDetails(item)`.
+7. Colours used in a canvas or chart must be read again in `themeChanged()` (the app has a light and a dark theme).
+8. HTML (for example a settings dialog) goes in the html part, inside `<div style="display:none"> ... </div>`. Prefix every id with `{{namespace}}_`. Open a dialog with `dialog.newStandardDialog({ title: '...', message: $('#<id>') })`.
+9. Keep it simple and readable: this code is read by the user before it runs.
+
+# Example
+
+A plugin with two value widgets:
+
+```typescript
+namespace example_value_widgets {
+
+    /** shows the stroke phase, subscribes to an event itself */
+    class PhaseWidget extends ergometerWidgets.StrokeValueWidget {
+        public strokePhaseUpdate(phase: pm3.StrokePhase, duration: number) {
+            this.valueText = pm3.StrokePhaseText[phase];
+        }
+        public loaded() {
+            super.loaded();
+            pm3.monitor.pubsubs.subNewStrokePhase(this, this.strokePhaseUpdate);
+        }
+        public beforeUnload() {
+            super.beforeUnload();
+            pm3.monitor.pubsubs.unsubNewStrokePhase(this, this.strokePhaseUpdate);
+        }
+        public initControl() {
+            super.initControl();
+            this.labelText = "Phase";
+        }
+        constructor(controller: dashboard.Controller) {
+            super(controller);
+            this.caption = "Phase";
+        }
+    }
+
+    /** shows the power of the last stroke; StrokeValueWidget calls strokeDataUpdate */
+    class PowerWidget extends ergometerWidgets.StrokeValueWidget {
+        public strokeDataUpdate(strokeData: pm3.StrokeData) {
+            this.valueText = strokeData.power.toString();
+        }
+        public initControl() {
+            super.initControl();
+            this.labelText = "Power";
+        }
+        constructor(controller: dashboard.Controller) {
+            super(controller);
+            this.caption = "Power";
+        }
+    }
+
+    class ExamplePlugin extends ExternalPlugin {
+        public init() {
+            dashboard.widgetRegistry().register(PhaseWidget, 'example_value_widgets_phase', 'Phase', ['Examples']);
+            dashboard.widgetRegistry().register(PowerWidget, 'example_value_widgets_power', 'Power', ['Examples']);
+        }
+        public remove() {
+            dashboard.widgetRegistry().deregister('example_value_widgets_phase');
+            dashboard.widgetRegistry().deregister('example_value_widgets_power');
+        }
+    }
+
+    var plugin = new ExamplePlugin();
+}
+```
+
+# Check before you answer
+
+- The namespace ends with `var plugin = new <YourPlugin>();` (a class that extends `ExternalPlugin`).
+- `init()` registers every widget with a menu group, `remove()` deregisters them.
+- Every `initControl()`, `loaded()` and `beforeUnload()` of a widget calls `super` first.
+- Widget content is added with `this.$container.append(...)`, never `.html(...)`.
+- Every `pubsubs.sub...` has its `unsub...` in `beforeUnload()`.
+- Only members that exist in `ErgometerApp.d.ts` are used.
+- The complete plugin is in one code block, with the `//=== TYPESCRIPT ===`, `//=== HTML ===` and `//=== CSS ===` lines.
+
+# Answer format
+
+Use this format for every answer in this chat, also when you fix errors later: the user copies your code block back into the app and it replaces the whole plugin.
+
+Give the complete plugin, not only the changes (never "..." or "rest unchanged"), in exactly one code block with these three marker lines. Leave a section empty when there is no html or css. Do not put code in other code blocks: the user copies this one block back into the app with its copy button.
+
+```typescript
+//=== TYPESCRIPT ===
+// the complete TypeScript code
+//=== HTML ===
+<!-- the html, empty when there is none -->
+//=== CSS ===
+/* the styles, empty when there are none */
+```
+
+Before the code block, explain in a few sentences what the plugin does and how to use it.

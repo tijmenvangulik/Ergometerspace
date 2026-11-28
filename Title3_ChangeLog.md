@@ -6,7 +6,9 @@ show_tile: true
 image: assets/images/PowerCurve.jpg
 permalink: ChangeLog.html
 --- 
-* 5.19.0 Web, iOS pending, Android pending
+* 5.20.0
+  - Allow end users to use (free) ai to generate plugins for adding new functions to the app 
+* 5.19.0 Web, iOS pending, Android
   - Share map with audience
   - fix iOS hangs with white flashing when opened after some thime
   - iOS and android store workouts separate for performance
